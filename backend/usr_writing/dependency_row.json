@@ -1,0 +1,21 @@
+{
+    "relations": [
+      { "relation": "क्या-कर्ता", "dependency_relation": "k1" },
+      { "relation": "क्या-कर्म", "dependency_relation": "k2" },
+      { "relation": "कौन-कर्ता", "dependency_relation": "k1" },
+      { "relation": "कौन-कर्म", "dependency_relation": "k2" },
+      { "relation": "कब", "dependency_relation": "k7t" },
+      { "relation": "कहां", "dependency_relation": "k2p" },
+      { "relation": "कैसे", "dependency_relation": "krvn" },
+      { "relation": "कब तक", "dependency_relation": "k7t" },
+      { "relation": "कहां पर", "dependency_relation": "k7p" },
+      { "relation": "कहां से", "dependency_relation": "k5" },
+      { "relation": "किस लिए", "dependency_relation": "rt" },
+      { "relation": "किस में", "dependency_relation": "k7p" },
+      { "relation": "किस के कारण", "dependency_relation": "rh" },
+      { "relation": "किस के समान", "dependency_relation": "ru" },
+      { "relation": "किसके तुलना में", "dependency_relation": "rv" },
+      { "relation": "modifier", "dependency_relation": "mod" },
+      { "relation": "quantity_value", "dependency_relation": "quant" }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+  "constructions": [
+    {
+      "text": "बड़ा पैन 1 चुटकी धनिया 2 करी पत्ता भून ।",
+      "usr_id": "1",
+      "original_concept": {
+        "index": 5,
+        "concept": "[meas_1]",
+        "dep_rel": "rmeas",
+        "dep_head": 4
+      },
+      "related_tokens": [
+        {
+          "constr_value": "count",
+          "concept": "1",
+          "index": 7
+        },
+        {
+          "constr_value": "unit",
+          "concept": "cutakI_1",
+          "index": 6
+        }
+      ]
+    },
+    {
+      "text": "बड़ा पैन 1 चुटकी धनिया 2 करी पत्ता भून ।",
+      "usr_id": "1",
+      "original_concept": {
+        "index": 9,
+        "concept": "[meas_2]",
+        "dep_rel": "rmeas",
+        "dep_head": 8
+      },
+      "related_tokens": [
+        {
+          "constr_value": "count",
+          "concept": "2",
+          "index": 10
+        }
+      ]
+    },
+    {
+      "text": "बड़ा पैन 1 चुटकी धनिया 2 करी पत्ता भून ।",
+      "usr_id": "1",
+      "original_concept": {
+        "index": 11,
+        "concept": "[conj_1]",
+        "dep_rel": "k2",
+        "dep_head": 1
+      },
+      "related_tokens": [
+        {
+          "constr_value": "op1",
+          "concept": "XaniyA_1",
+          "index": 4
+        },
+        {
+          "constr_value": "op2",
+          "concept": "karI+pawwA_1",
+          "index": 8
+        }
+      ]
+    },
+    {
+      "text": "बड़ा पैन 1 चुटकी धनिया 2 करी पत्ता भून ।",
+      "usr_id": "1",
+      "original_concept": {
+        "index": 5,
+        "concept": "[meas_1]",
+        "dep_rel": "rmeas",
+        "dep_head": 4
+      },
+      "related_tokens": [
+        {
+          "constr_value": "count",
+          "concept": "1",
+          "index": 7
+        },
+        {
+          "constr_value": "unit",
+          "concept": "cutakI_1",
+          "index": 6
+        }
+      ]
+    },
+    {
+      "text": "बड़ा पैन 1 चुटकी धनिया 2 करी पत्ता भून ।",
+      "usr_id": "1",
+      "original_concept": {
+        "index": 9,
+        "concept": "[meas_2]",
+        "dep_rel": "rmeas",
+        "dep_head": 8
+      },
+      "related_tokens": [
+        {
+          "constr_value": "count",
+          "concept": "2",
+          "index": 10
+        }
+      ]
+    },
+    {
+      "text": "बड़ा पैन 1 चुटकी धनिया 2 करी पत्ता भून ।",
+      "usr_id": "1",
+      "original_concept": {
+        "index": 11,
+        "concept": "[conj_1]",
+        "dep_rel": "k2",
+        "dep_head": 1
+      },
+      "related_tokens": [
+        {
+          "constr_value": "op1",
+          "concept": "XaniyA_1",
+          "index": 4
+        },
+        {
+          "constr_value": "op2",
+          "concept": "karI+pawwA_1",
+          "index": 8
+        }
+      ]
+    }
+  ]
+}

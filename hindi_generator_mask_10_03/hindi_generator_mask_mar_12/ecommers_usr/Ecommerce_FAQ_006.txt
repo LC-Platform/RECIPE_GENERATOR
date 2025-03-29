@@ -1,0 +1,13 @@
+<segment_id=Ecommerce_FAQ_006>
+#विस्तृत निर्देशों के लिए कृपया हमारे रिटर्न पेज को देखें।
+viswqwa_1	1	-	-	2:mod	-	-	-	-
+nirxeSa_1	2	-	pl	10:rt	-	-	-	-
+kqpayA_1	5	-	-	10:krvn	-	-	-	-
+$speaker	6	-	pl	12:r6	-	-	-	-
+ritarna_1	7	-	-	8:pof__cn	-	-	-	12:mod
+peja_1	8	-	-	10:k2	-	-	-	12:head
+xeKa_1-e_1	10	-	-	0:main	-	-	-	-
+[nc_1]	12	-	-	10:k2	-	-	-	-
+$addressee	13	-	-	10:k1	-	respect	-	-
+ 
+</segment_id>

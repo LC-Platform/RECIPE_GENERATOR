@@ -1,0 +1,32 @@
+1. K2 is present 
+<sent_id=1>
+# राम ने मुझे भी  बुलाया ।
+rAma 1 per/male - 3:k1 - - - -
+$speaker 2 anim - 3:k2 - BI_1 - -
+bulA_1-yA_1 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+
+output: 1	राम ने मुझे भी बुलाया ।
+
+2. K2 is not present and kriyamul is present
+<sent_id=2>
+#राम  नें  भी स्नान किया ।
+rAma 1 per/male - 4:k1 - BI_1 - -
+snAna_1	2	-	-	-	-	-	-	4:kriyAmUla
+kara_1-yA_1	3	-	-	-	-	-	-	4:verbalizer
+[cp_1]	4	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+output: 2	राम भी स्नान किया ।
+
+3. No K2 and no kriyamul
+<sent_id=3>
+# राम भी  जायेगा ।
+rAma 1 per/male - 2:k1 - BI_2 - -
+jA_1-gA_1 2 - - 0:main - - - -
+%affirmative
+</sent_id>
+
+output: 3	राम भी जाएगा । 

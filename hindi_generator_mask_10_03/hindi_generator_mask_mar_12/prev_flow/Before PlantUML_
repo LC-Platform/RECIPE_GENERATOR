@@ -1,0 +1,124 @@
+Before PlantUML:
+1. Input will be the USR in string format for `hindi_generation(input_text)`; it can be single or multiple USRs.
+2. USR is stored in the form of JSON using `USR_to_json(segments)`.
+3. Vertical format USR is converted to CSV format.
+4. The above converted CSV format is given to `process_file_data` function.
+
+@startuml
+start
+
+// :Initialize global flags and lists;
+:Initialize input string as USR;
+:Convert USR string to segments using split method;
+:Store USR segments in JSON format using USR_to_json;
+
+if (USR to JSON conversion successful?) then (Yes)
+    :Extract sentences and IDs from JSON;
+    :Transform vertical USR format to CSV;
+    :Pass the CSV data to process_file_data;
+    
+    if (process_file_data execution?) then (Successful)
+        :Reset global dictionaries;
+        :Extract rules info using generate_rulesinfo;
+
+        if (Rule extraction successful?) then (Yes)
+            :Extract details from rules info (src_sentence, root_words, etc.);
+            :Check sentence type and update k1_not_need flag;
+            :Iterate through root_words;
+
+            if (Root word has 'conj'?) then (Yes)
+                :Set flag_conj to True;
+                :Update dependency data;
+            elseif (Root word has 'disjunct'?) then (Yes)
+                :Set flag_disjunct to True;
+                :Update dependency data;
+            elseif (Root word has 'span'?) then (Yes)
+                :Set flag_span to True;
+                :Update dependency data;
+            elseif (Other conditions like 'meas', 'rate', etc.?) then (Yes)
+                :Set respective flags and update dependency data;
+            endif
+        else (No)
+            :Log error and exit;
+        endif
+
+        :Check main verb in dependency data;
+        if (Speaker view data exists?) then (Yes)
+            :Populate speaker view data;
+        endif
+        if (Discourse data exists?) then (Yes)
+            :Set HAS_DISCOURSE_DATA to True;
+        endif
+
+        :Generate word info;
+        :Identify word categories (nouns, verbs, adjectives, etc.);
+        :Process each category (foreign words, nouns, pronouns, etc.);
+
+        if (Additional words exist?) then (Yes)
+            :Set HAS_ADDITIONAL_WORDS to True;
+        endif
+
+        :Collect processed words;
+        if (Construction data exists?) then (Yes)
+            :Handle construction-specific processing;
+        endif
+
+        :Generate morphological output;
+        if (Has unprocessed data?) then (Yes)
+            :Reprocess nouns, verbs, adjectives, and adverbs;
+            :Generate new sentence;
+        else (No)
+            :Skip reprocess and generate new sentence;
+        endif
+
+        :Transform data with analyse_output_data;
+        :Join compound words and post-positions;
+
+        if (Construction data exists?) then (Yes)
+            :Join construction-specific data;
+        endif
+
+        if (Speaker view data exists?) then (Yes)
+            :Add speaker view data;
+        endif
+
+        :Add morpho-semantic data;
+        if (Additional words exist?) then (Yes)
+            :Add additional words;
+        endif
+
+        if (Coreference data exists?) then (Yes)
+            :Process coreference data;
+        endif
+
+        :Rearrange processed sentence;
+        :Clean and update output;
+
+        if (Discourse data exists?) then (Yes)
+            :Add discourse elements to output;
+        endif
+
+        :Check for question marks;
+        :Extract speaker view values;
+
+        if (Specific discourse markers exist?) then (Yes)
+            :Add markers (e.g., 'yaxi', 'yaxyapi');
+        endif
+
+        :Collect and return Hindi masked output;
+        if (Output contains mask?) then (Yes)
+            :Send to mask model for further processing;
+        endif
+        :Output processed data;
+
+    else (Error)
+        :Log error in process_file_data;
+    endif
+
+else (No)
+    :Log error in USR to JSON conversion;
+endif
+
+:Return final Hindi sentence;
+stop
+@enduml

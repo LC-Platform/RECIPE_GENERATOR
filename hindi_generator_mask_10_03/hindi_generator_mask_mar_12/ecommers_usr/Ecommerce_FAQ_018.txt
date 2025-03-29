@@ -1,0 +1,18 @@
+<segment_id=Ecommerce_FAQ_018>
+#हमारी टीम आपकी किसी भी पूछताछ या समस्या में सहायता करने के लिए कार्य समय उपलब्ध है।
+tIma_1	2	-	-	17:k1	-	-	-	-
+pUCawACa_1	6	-	-	11:k7	-	-	-	21:op1
+samasyA_1	8	-	-	11:k7	-	-	-	21:op2
+sahAyawA_1	10	-	-	11:pof	-	-	-	20:kriyAmUla
+kArya_1	14	-	-	15:pof__cn	-	-	-	-
+samaya_1	15	-	-	17:k1	-	-	-	-
+upalabXa_1	16	-	-	17:k1s	-	-	-	-
+hE_1-pres	17	-	-	0:main	-	-	-	-
+[cp_1]	20	-	-	17:rt	-	-	-	-
+[disjunct_1]	21	-	-	-	-	-	-	-
+$speaker	1	anim	pl	2:r6	-	-	-	-
+$addressee	3	anim	-	21:r6	-	respect	-	-
+kara_1	11	-	-	17:rt	-	-	-	20:verbalizer
+koI_1	4	-	-	21:mod	-	BI_6	-	-
+ 
+</segment_id>

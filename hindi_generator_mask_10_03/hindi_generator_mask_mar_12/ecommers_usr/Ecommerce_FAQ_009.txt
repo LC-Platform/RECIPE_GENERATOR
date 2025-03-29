@@ -1,0 +1,14 @@
+<segment_id=Ecommerce_FAQ_009>
+#शिपिंग का समय गंतव्य और चुनी गई शिपिंग विधि के आधार पर अलग-अलग होता है।
+^SipiMga_1	1	-	-	3:r6	-	-	-	-
+samaya_1	3	-	-	14:k1	-	-	-	-
+gaMwavya_1	4	-	-	11:r6	-	-	-	20:op1
+cuna_1	6	-	-	9:rvks	-	-	-	-
+^SipiMga_1	8	-	-	9:pof__cn	-	-	-	17:mod
+viXi_1	9	-	-	11:r6	-	-	-	17:head
+alaga_1	13	-	dvitva	14:k1s	-	-	-	-
+ho_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+[nc_1]	17	-	-	-	-	-	-	20:op2
+[conj_1]	20	-	-	14:k7	-	-	-	-
+ 
+</segment_id>

@@ -1,0 +1,1596 @@
+[
+    {
+        "text": "एक गाँव में चार लडके रहते थे ।",
+        "usr_id": "1",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "eka_2",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 2,
+                "concept": "gAzva_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 4,
+                "concept": "4",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "numex"
+            },
+            {
+                "index": 5,
+                "concept": "ladakA_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "anim/male",
+                "morpho_sem": "pl"
+            },
+            {
+                "index": 6,
+                "concept": "raha_1",
+                "tam": "wA_WA_1",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "वे बहुत घनिष्ठ मित्र थे ।",
+        "usr_id": "2",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "1.5",
+                "discourse_rel": "coref",
+                "speaker_view": "distal",
+                "coref_id": 1,
+                "coref_word": "ladakA_1"
+            },
+            {
+                "index": 2,
+                "concept": "bahuwa_7",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 3,
+                "concept": "GaniRTa_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 4,
+                "concept": "miwra_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 5,
+                "concept": "hE_1",
+                "tam": "past",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "उनमें से दो लडके बहुत आज्ञाकारी थे ।",
+        "usr_id": "3a",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "1.5",
+                "discourse_rel": "coref",
+                "speaker_view": "distal",
+                "coref_id": 1,
+                "coref_word": "ladakA_1"
+            },
+            {
+                "index": 3,
+                "concept": "2",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "numex"
+            },
+            {
+                "index": 4,
+                "concept": "ladakA_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "anim/male",
+                "morpho_sem": "pl"
+            },
+            {
+                "index": 5,
+                "concept": "bahuwa_7",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 6,
+                "concept": "AjFAkArI_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 7,
+                "concept": "hE_1",
+                "tam": "past",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "लेकिन दो लडके बहुत शरारती और चंचल थे ।",
+        "usr_id": "3b",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "2",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "numex"
+            },
+            {
+                "index": 2,
+                "concept": "ladakA_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "anim/male",
+                "morpho_sem": "pl"
+            },
+            {
+                "index": 3,
+                "concept": "bahuwa_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 4,
+                "concept": "SarArawI_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "op1",
+                "dep_head": 7,
+                "cxn_construct": "op1",
+                "construct_head": 7
+            },
+            {
+                "index": 6,
+                "concept": "caMcala_11",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "op2",
+                "dep_head": 7,
+                "cxn_construct": "op2",
+                "construct_head": 7
+            },
+            {
+                "index": 5,
+                "concept": "hE_1",
+                "tam": "past",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "3a.7",
+                "discourse_rel": "viroXI"
+            },
+            {
+                "index": 7,
+                "concept": "[conj_1]",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "conjunction",
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "अगर गाँव में कुछ भी गलत होता था ।",
+        "usr_id": "4a",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 2,
+                "concept": "gAzva_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 4,
+                "concept": "kuCa_10",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "speaker_view": "BI_3"
+            },
+            {
+                "index": 6,
+                "concept": "galawa_5",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "kriyAmUla",
+                "dep_head": 10,
+                "cxn_construct": "kriyAmUla",
+                "construct_head": 10
+            },
+            {
+                "index": 7,
+                "concept": "ho_1",
+                "tam": "wA_WA_1",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "verbalizer",
+                "dep_head": 10,
+                "cxn_construct": "verbalizer",
+                "construct_head": 10
+            },
+            {
+                "index": 10,
+                "concept": "[cp_1]",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "4b.4",
+                "discourse_rel": "AvaSyakawApariNAma"
+            }
+        ]
+    },
+    {
+        "text": "तो सब लोग यह सोचते थे ।",
+        "usr_id": "4b",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "saba_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 2,
+                "concept": "loga_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 3,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "4c.4",
+                "discourse_rel": "coref",
+                "speaker_view": "proximal",
+                "coref_id": 2,
+                "coref_word": "kara_7"
+            },
+            {
+                "index": 4,
+                "concept": "soca_9",
+                "tam": "wA_WA_1",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "कि ये उन दोनों लडको ने ही किया होगा ।",
+        "usr_id": "4c",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 5,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "speaker_view": "proximal"
+            },
+            {
+                "index": 1,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "speaker_view": "distal"
+            },
+            {
+                "index": 2,
+                "concept": "xonoM_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "morpho_sem": "pl"
+            },
+            {
+                "index": 3,
+                "concept": "ladakA_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "anim/male"
+            },
+            {
+                "index": 4,
+                "concept": "kara_7",
+                "tam": "yA_hE_1",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "इस कारण उनके माता-पिता बहुत परेशान थे ।",
+        "usr_id": "5",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 3,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "4c.3",
+                "discourse_rel": "coref",
+                "speaker_view": "distal",
+                "coref_id": 1,
+                "coref_word": "ladakA_1"
+            },
+            {
+                "index": 4,
+                "concept": "mAwA_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "op1",
+                "dep_head": 9,
+                "cxn_construct": "op1",
+                "construct_head": 9
+            },
+            {
+                "index": 5,
+                "concept": "piwA_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "op2",
+                "dep_head": 9,
+                "cxn_construct": "op2",
+                "construct_head": 9
+            },
+            {
+                "index": 6,
+                "concept": "bahuwa_7",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 7,
+                "concept": "pareSAna_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 8,
+                "concept": "hE_1",
+                "tam": "past",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "4b.8",
+                "discourse_rel": "pariNAma"
+            },
+            {
+                "index": 9,
+                "concept": "[xvanxva_1]",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "जबकि अन्य दो लडकों के परिवार बहुत खुश था ।",
+        "usr_id": "6",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "anya_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 2,
+                "concept": "2",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "numex"
+            },
+            {
+                "index": 3,
+                "concept": "ladakA_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "anim/male",
+                "morpho_sem": "pl"
+            },
+            {
+                "index": 5,
+                "concept": "parivAra_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 6,
+                "concept": "bahuwa_7",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 7,
+                "concept": "KuSa_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 8,
+                "concept": "hE_1",
+                "tam": "past",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "5.8",
+                "discourse_rel": "viroXI_xyowaka"
+            }
+        ]
+    },
+    {
+        "text": "वे ना केवल आज्ञाकारी ही थे ।",
+        "usr_id": "7a",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "morpho_sem": "pl",
+                "discourse_head": "6.3",
+                "discourse_rel": "coref",
+                "speaker_view": "distal",
+                "coref_id": 1,
+                "coref_word": "ladakA_1"
+            },
+            {
+                "index": 2,
+                "concept": "AjFAkArI_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "speaker_view": "hI_5"
+            },
+            {
+                "index": 3,
+                "concept": "hE_1",
+                "tam": "past",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "बल्कि वे बहुत समझदार भी थे ।",
+        "usr_id": "7b",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "morpho_sem": "pl",
+                "discourse_head": "6.3",
+                "discourse_rel": "coref",
+                "speaker_view": "distal",
+                "coref_id": 1,
+                "coref_word": "ladakA_1"
+            },
+            {
+                "index": 2,
+                "concept": "bahuwa_7",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 3,
+                "concept": "samaJaxAra_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "speaker_view": "BI_1"
+            },
+            {
+                "index": 5,
+                "concept": "hE_1",
+                "tam": "past",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "7a.3",
+                "discourse_rel": "samuccaya",
+                "speaker_view": "BI_1"
+            }
+        ]
+    },
+    {
+        "text": "उन चारों का स्वभाव बहुत अनोखा था ।",
+        "usr_id": "8",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "speaker_view": "distal"
+            },
+            {
+                "index": 2,
+                "concept": "4",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "numex",
+                "morpho_sem": "pl"
+            },
+            {
+                "index": 4,
+                "concept": "svaBAva_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 5,
+                "concept": "bahuwa_7",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 6,
+                "concept": "anoKA_7",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 7,
+                "concept": "hE_1",
+                "tam": "past",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "इसके बावजूद वे बहुत घनिष्ठ मित्र थे ।",
+        "usr_id": "9",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 3,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "morpho_sem": "pl",
+                "discourse_head": "1.5",
+                "discourse_rel": "coref",
+                "speaker_view": "distal",
+                "coref_id": 1,
+                "coref_word": "ladakA_1"
+            },
+            {
+                "index": 4,
+                "concept": "bahuwa_7",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 5,
+                "concept": "GaniRTa_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 6,
+                "concept": "miwra_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 7,
+                "concept": "hE_1",
+                "tam": "past",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "8.7",
+                "discourse_rel": "vyaBicAra"
+            }
+        ]
+    },
+    {
+        "text": "एक गाँव में चार लडके रहते थे ।",
+        "usr_id": "1",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "eka_2",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 2,
+                "concept": "gAzva_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 4,
+                "concept": "4",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "numex"
+            },
+            {
+                "index": 5,
+                "concept": "ladakA_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "anim/male",
+                "morpho_sem": "pl"
+            },
+            {
+                "index": 6,
+                "concept": "raha_1",
+                "tam": "wA_WA_1",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "वे बहुत घनिष्ठ मित्र थे ।",
+        "usr_id": "2",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "1.5",
+                "discourse_rel": "coref",
+                "speaker_view": "distal",
+                "coref_id": 1,
+                "coref_word": "ladakA_1"
+            },
+            {
+                "index": 2,
+                "concept": "bahuwa_7",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 3,
+                "concept": "GaniRTa_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 4,
+                "concept": "miwra_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 5,
+                "concept": "hE_1",
+                "tam": "past",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "उनमें से दो लडके बहुत आज्ञाकारी थे ।",
+        "usr_id": "3a",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "1.5",
+                "discourse_rel": "coref",
+                "speaker_view": "distal",
+                "coref_id": 1,
+                "coref_word": "ladakA_1"
+            },
+            {
+                "index": 3,
+                "concept": "2",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "numex"
+            },
+            {
+                "index": 4,
+                "concept": "ladakA_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "anim/male",
+                "morpho_sem": "pl"
+            },
+            {
+                "index": 5,
+                "concept": "bahuwa_7",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 6,
+                "concept": "AjFAkArI_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 7,
+                "concept": "hE_1",
+                "tam": "past",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "लेकिन दो लडके बहुत शरारती और चंचल थे ।",
+        "usr_id": "3b",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "2",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "numex"
+            },
+            {
+                "index": 2,
+                "concept": "ladakA_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "anim/male",
+                "morpho_sem": "pl"
+            },
+            {
+                "index": 3,
+                "concept": "bahuwa_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 4,
+                "concept": "SarArawI_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "op1",
+                "dep_head": 7,
+                "cxn_construct": "op1",
+                "construct_head": 7
+            },
+            {
+                "index": 6,
+                "concept": "caMcala_11",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "op2",
+                "dep_head": 7,
+                "cxn_construct": "op2",
+                "construct_head": 7
+            },
+            {
+                "index": 5,
+                "concept": "hE_1",
+                "tam": "past",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "3a.7",
+                "discourse_rel": "viroXI"
+            },
+            {
+                "index": 7,
+                "concept": "[conj_1]",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "conjunction",
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "अगर गाँव में कुछ भी गलत होता था ।",
+        "usr_id": "4a",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 2,
+                "concept": "gAzva_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 4,
+                "concept": "kuCa_10",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "speaker_view": "BI_3"
+            },
+            {
+                "index": 6,
+                "concept": "galawa_5",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "kriyAmUla",
+                "dep_head": 10,
+                "cxn_construct": "kriyAmUla",
+                "construct_head": 10
+            },
+            {
+                "index": 7,
+                "concept": "ho_1",
+                "tam": "wA_WA_1",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "verbalizer",
+                "dep_head": 10,
+                "cxn_construct": "verbalizer",
+                "construct_head": 10
+            },
+            {
+                "index": 10,
+                "concept": "[cp_1]",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "4b.4",
+                "discourse_rel": "AvaSyakawApariNAma"
+            }
+        ]
+    },
+    {
+        "text": "तो सब लोग यह सोचते थे ।",
+        "usr_id": "4b",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "saba_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 2,
+                "concept": "loga_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 3,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "4c.4",
+                "discourse_rel": "coref",
+                "speaker_view": "proximal",
+                "coref_id": 2,
+                "coref_word": "kara_7"
+            },
+            {
+                "index": 4,
+                "concept": "soca_9",
+                "tam": "wA_WA_1",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "कि ये उन दोनों लडको ने ही किया होगा ।",
+        "usr_id": "4c",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 5,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "speaker_view": "proximal"
+            },
+            {
+                "index": 1,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "speaker_view": "distal"
+            },
+            {
+                "index": 2,
+                "concept": "xonoM_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "morpho_sem": "pl"
+            },
+            {
+                "index": 3,
+                "concept": "ladakA_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "anim/male"
+            },
+            {
+                "index": 4,
+                "concept": "kara_7",
+                "tam": "yA_hE_1",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "इस कारण उनके माता-पिता बहुत परेशान थे ।",
+        "usr_id": "5",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 3,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "4c.3",
+                "discourse_rel": "coref",
+                "speaker_view": "distal",
+                "coref_id": 1,
+                "coref_word": "ladakA_1"
+            },
+            {
+                "index": 4,
+                "concept": "mAwA_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "op1",
+                "dep_head": 9,
+                "cxn_construct": "op1",
+                "construct_head": 9
+            },
+            {
+                "index": 5,
+                "concept": "piwA_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "op2",
+                "dep_head": 9,
+                "cxn_construct": "op2",
+                "construct_head": 9
+            },
+            {
+                "index": 6,
+                "concept": "bahuwa_7",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 7,
+                "concept": "pareSAna_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 8,
+                "concept": "hE_1",
+                "tam": "past",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "4b.8",
+                "discourse_rel": "pariNAma"
+            },
+            {
+                "index": 9,
+                "concept": "[xvanxva_1]",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "जबकि अन्य दो लडकों के परिवार बहुत खुश था ।",
+        "usr_id": "6",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "anya_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 2,
+                "concept": "2",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "numex"
+            },
+            {
+                "index": 3,
+                "concept": "ladakA_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "anim/male",
+                "morpho_sem": "pl"
+            },
+            {
+                "index": 5,
+                "concept": "parivAra_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 6,
+                "concept": "bahuwa_7",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 7,
+                "concept": "KuSa_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 8,
+                "concept": "hE_1",
+                "tam": "past",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "5.8",
+                "discourse_rel": "viroXI_xyowaka"
+            }
+        ]
+    },
+    {
+        "text": "वे ना केवल आज्ञाकारी ही थे ।",
+        "usr_id": "7a",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "morpho_sem": "pl",
+                "discourse_head": "6.3",
+                "discourse_rel": "coref",
+                "speaker_view": "distal",
+                "coref_id": 1,
+                "coref_word": "ladakA_1"
+            },
+            {
+                "index": 2,
+                "concept": "AjFAkArI_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "speaker_view": "hI_5"
+            },
+            {
+                "index": 3,
+                "concept": "hE_1",
+                "tam": "past",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "बल्कि वे बहुत समझदार भी थे ।",
+        "usr_id": "7b",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "morpho_sem": "pl",
+                "discourse_head": "6.3",
+                "discourse_rel": "coref",
+                "speaker_view": "distal",
+                "coref_id": 1,
+                "coref_word": "ladakA_1"
+            },
+            {
+                "index": 2,
+                "concept": "bahuwa_7",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 3,
+                "concept": "samaJaxAra_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "speaker_view": "BI_1"
+            },
+            {
+                "index": 5,
+                "concept": "hE_1",
+                "tam": "past",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "7a.3",
+                "discourse_rel": "samuccaya",
+                "speaker_view": "BI_1"
+            }
+        ]
+    },
+    {
+        "text": "उन चारों का स्वभाव बहुत अनोखा था ।",
+        "usr_id": "8",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "speaker_view": "distal"
+            },
+            {
+                "index": 2,
+                "concept": "4",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "sem_category": "numex",
+                "morpho_sem": "pl"
+            },
+            {
+                "index": 4,
+                "concept": "svaBAva_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 5,
+                "concept": "bahuwa_7",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 6,
+                "concept": "anoKA_7",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 7,
+                "concept": "hE_1",
+                "tam": "past",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            }
+        ]
+    },
+    {
+        "text": "इसके बावजूद वे बहुत घनिष्ठ मित्र थे ।",
+        "usr_id": "9",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 3,
+                "concept": "$wyax",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": "pron",
+                "dep_rel": "-",
+                "dep_head": "-",
+                "morpho_sem": "pl",
+                "discourse_head": "1.5",
+                "discourse_rel": "coref",
+                "speaker_view": "distal",
+                "coref_id": 1,
+                "coref_word": "ladakA_1"
+            },
+            {
+                "index": 4,
+                "concept": "bahuwa_7",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 5,
+                "concept": "GaniRTa_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 6,
+                "concept": "miwra_1",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-"
+            },
+            {
+                "index": 7,
+                "concept": "hE_1",
+                "tam": "past",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "-",
+                "dep_head": "-",
+                "discourse_head": "8.7",
+                "discourse_rel": "vyaBicAra"
+            }
+        ]
+    }
+]

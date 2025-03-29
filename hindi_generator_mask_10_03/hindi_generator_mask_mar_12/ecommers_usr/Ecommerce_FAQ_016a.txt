@@ -1,0 +1,11 @@
+<segment_id=Ecommerce_FAQ_016a>
+#ऑर्डर अभी तक शिप नहीं किया गया है ।
+^OYrdara_1	1	-	-	6:k2	-	-	-	-
+aBI_1	2	-	-	6:k7t	-	-	-	11:end
+[span_1]	11	-	-	-	-	-	-	-
+^Sipa_1	4	-	-	6:pof	-	-	-	10:kriyAmUla
+nahIM_1	5	-	-	6:neg	-	-	-	-
+kara_1-yA_jA_yA_hE_1	6	-	-	0:main	Ecommerce_FAQ_016b.6:main	-	-	10:verbalizer
+[cp_1]	10	-	-	-	-	-	-	-
+ 
+</segment_id>

@@ -1,0 +1,2867 @@
+ * Serving Flask app 'main'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:2000
+ * Running on http://127.0.0.1:2000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 293-307-128
+10.11.0.223 - - [25/Feb/2025 00:18:33] "GET /recipes HTTP/1.1" 200 -
+10.11.0.223 - - [25/Feb/2025 00:18:41] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.11.0.223 - - [25/Feb/2025 00:18:41] "POST /save-selection HTTP/1.1" 200 -
+10.11.0.223 - - [25/Feb/2025 00:18:41] "GET /get-options HTTP/1.1" 200 -
+10.11.0.223 - - [25/Feb/2025 00:18:41] "GET /recipe/Dq1OqMzghAB6n1JkUIiE HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:09:26] "GET /recipes HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:09:32] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:09:32] "POST /save-selection HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:09:32] "GET /get-options HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:09:32] "GET /recipe/t6e4poxz4Z5iGNDUYfdA HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:10:04] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:10:04] "POST /reset-graph HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:10:04] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:10:04] "POST /create-graph HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:10:04] "OPTIONS /graphtousr HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:10:04] "POST /graphtousr HTTP/1.1" 500 -
+10.11.0.105 - - [25/Feb/2025 10:10:11] "GET /get-sentences/t6e4poxz4Z5iGNDUYfdA HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:10:12] "GET /get-sentences/t6e4poxz4Z5iGNDUYfdA HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:10:26] "GET /graphtousr HTTP/1.1" 405 -
+10.11.0.105 - - [25/Feb/2025 10:10:27] "GET /favicon.ico HTTP/1.1" 404 -
+10.11.0.105 - - [25/Feb/2025 10:26:03] "OPTIONS /remove-sentences HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:26:04] "POST /remove-sentences HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:26:32] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:26:32] "POST /reset-graph HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:26:32] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:26:32] "POST /create-graph HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:26:32] "OPTIONS /graphtousr HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:26:32] "POST /graphtousr HTTP/1.1" 500 -
+ * Detected change in '/home/user/swetha/backend/main.py', reloading
+An error occurred in graphtousr: File not found: /home/praveen/Desktop/main_project/backend/usr_writing/dependency_row.json
+An error occurred in graphtousr: File not found: /home/praveen/Desktop/main_project/backend/usr_writing/dependency_row.json
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 293-307-128
+ * Serving Flask app 'main'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:2000
+ * Running on http://127.0.0.1:2000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 161-639-538
+10.11.0.105 - - [25/Feb/2025 10:40:07] "GET /recipes HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:40:14] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:40:14] "POST /save-selection HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:40:14] "GET /get-options HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:40:14] "GET /recipe/gcNFT5iHa6E1wK6qjJTg HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:40:43] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:40:43] "POST /reset-graph HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:40:43] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:40:43] "POST /create-graph HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:40:44] "OPTIONS /graphtousr HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 10:40:44] "POST /graphtousr HTTP/1.1" 200 -
+10.11.0.89 - - [25/Feb/2025 14:29:36] "GET /recipes HTTP/1.1" 200 -
+10.11.0.89 - - [25/Feb/2025 14:30:15] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.11.0.89 - - [25/Feb/2025 14:30:15] "POST /save-selection HTTP/1.1" 200 -
+10.11.0.89 - - [25/Feb/2025 14:30:16] "GET /recipe/Ix4bGaPcEYxz8dCDhOYi HTTP/1.1" 200 -
+10.11.0.89 - - [25/Feb/2025 14:30:16] "GET /get-options HTTP/1.1" 200 -
+10.11.0.89 - - [25/Feb/2025 14:35:00] "GET /recipes HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 14:37:03] "GET /recipes HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 14:37:29] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 14:37:30] "POST /save-selection HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 14:37:30] "GET /get-options HTTP/1.1" 200 -
+10.11.0.105 - - [25/Feb/2025 14:37:30] "GET /recipe/KuO4buGwfZmBgBMNSj88 HTTP/1.1" 200 -
+10.11.0.143 - - [25/Feb/2025 14:58:23] "GET /recipes HTTP/1.1" 200 -
+10.11.0.143 - - [25/Feb/2025 14:59:28] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.11.0.143 - - [25/Feb/2025 14:59:28] "POST /save-selection HTTP/1.1" 200 -
+10.11.0.143 - - [25/Feb/2025 14:59:28] "GET /get-options HTTP/1.1" 200 -
+10.11.0.143 - - [25/Feb/2025 14:59:28] "GET /recipe/RDjgk1P3bZgOJygCk521 HTTP/1.1" 200 -
+10.11.0.170 - - [26/Feb/2025 11:58:45] "GET /recipes HTTP/1.1" 200 -
+10.11.0.170 - - [26/Feb/2025 11:59:29] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.11.0.170 - - [26/Feb/2025 11:59:29] "POST /save-selection HTTP/1.1" 200 -
+10.11.0.170 - - [26/Feb/2025 11:59:29] "GET /get-options HTTP/1.1" 200 -
+10.11.0.170 - - [26/Feb/2025 11:59:29] "GET /recipe/uLSH5G84ZbWPT9X6bpYe HTTP/1.1" 200 -
+10.11.0.170 - - [26/Feb/2025 12:00:28] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.11.0.170 - - [26/Feb/2025 12:00:28] "POST /reset-graph HTTP/1.1" 200 -
+10.11.0.170 - - [26/Feb/2025 12:00:28] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.11.0.170 - - [26/Feb/2025 12:00:28] "POST /create-graph HTTP/1.1" 200 -
+10.11.0.170 - - [26/Feb/2025 12:00:28] "OPTIONS /graphtousr HTTP/1.1" 200 -
+10.11.0.170 - - [26/Feb/2025 12:00:28] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [27/Feb/2025 14:21:44] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [27/Feb/2025 14:22:01] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [27/Feb/2025 14:22:01] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [27/Feb/2025 14:22:02] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [27/Feb/2025 14:22:02] "GET /recipe/RttIshhvlXNksaEZ1JEs HTTP/1.1" 200 -
+10.2.133.167 - - [27/Feb/2025 14:22:40] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [27/Feb/2025 14:22:40] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [27/Feb/2025 14:22:40] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [27/Feb/2025 14:22:40] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [27/Feb/2025 14:22:41] "OPTIONS /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [27/Feb/2025 14:22:41] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:47:54] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:48:37] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:49:42] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:49:42] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:49:42] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:49:42] "GET /recipe/ypOndkskzhLow6X6TdRv HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:50:04] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:50:04] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:50:04] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:50:04] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:50:04] "OPTIONS /graphtousr HTTP/1.1" 200 -
+
+===== Processing Nodes =====
+Verb+TAM node found: बना-imperative (Index: 1)
+verb_tam
+relation
+noun
+Noun/Ingredient/Modifier node found: मिर्
+card
+number
+Measurement/Quantity node found: 2
+mod
+modifier
+Noun/Ingredient/Modifier node found: हरी
+
+===== Filtering Nodes into Final List =====
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+number
+modifier
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: बना-imperative (Index: 1, Dependency: 0:main)
+noun
+कहां
+k2p
+Noun node: मिर् (Dependency: 1:k2p)
+number
+[{'source': 'verb_tam_बना_imperative_9afd0e', 'target': 'relation_कहां_0_41337e', 'attributes': {}}, {'source': 'relation_कहां_0_41337e', 'target': 'noun_कहां_मिर्_2581c0', 'attributes': {}}, {'source': 'noun_कहां_मिर्_2581c0', 'target': 'num__0f1d90', 'attributes': {}}, {'source': 'noun_कहां_मिर्_2581c0', 'target': 'mod_7ac2ba', 'attributes': {}}, {'source': 'num__0f1d90', 'target': 'number_2_8148a7', 'attributes': {}}, {'source': 'mod_7ac2ba', 'target': 'modifier_हरी_7f82a1', 'attributes': {}}]
+2
+noun_कहां_मिर्_2581c0
+{'id': 'noun_कहां_मिर्_2581c0', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'मिर्'}}
+Measure node: 2 (Dependency: 2:card)
+modifier
+Modifier node: हरी (Dependency: 2:mod)
+sr कहां
+बना-imperative
+['-', '-', '-', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['बना-o_1', 'मिर्', '2', 'हरी']
+cp ['banA_1-o_1', 'mir_1', '2', 'harI_1']
+['0:main', '1:k2p', '2:card', '2:mod']
+['-', '-', '-', '-']
+<sent_id=190da>
+#बना-imperative मिर्  हरी
+banA_1-o_1	1	-	-	0:main	-	-	-	-
+mir_1	2	-	-	1:k2p	-	-	-	-
+2	3	-	-	2:card	-	-	-	-
+harI_1	4	-	-	2:mod	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=190da>
+#बना-imperative मिर्  हरी
+banA_1-o_1	1	-	-	0:main	-	-	-	-
+mir_1	2	-	-	1:k2p	-	-	-	-
+2	3	-	-	2:card	-	-	-	-
+harI_1	4	-	-	2:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: बना-imperative (Index: 1)
+verb_tam
+relation
+noun
+Noun/Ingredient/Modifier node found: मिर्च
+card
+number
+Measurement/Quantity node found: 2
+mod
+modifier
+Noun/Ingredient/Modifier node found: हरी
+
+===== Filtering Nodes into Final List =====
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+number
+modifier
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: बना-imperative (Index: 1, Dependency: 0:main)
+noun
+कहां
+k2p
+Noun node: मिर्च (Dependency: 1:k2p)
+number
+[{'source': 'verb_tam_बना_imperative_064b96', 'target': 'relation_कहां_0_723245', 'attributes': {}}, {'source': 'relation_कहां_0_723245', 'target': 'noun_कहां_मिर्च_a764e2', 'attributes': {}}, {'source': 'noun_कहां_मिर्च_a764e2', 'target': 'num__5322fb', 'attributes': {}}, {'source': 'noun_कहां_मिर्च_a764e2', 'target': 'mod_7ef9fc', 'attributes': {}}, {'source': 'num__5322fb', 'target': 'number_2_544b9e', 'attributes': {}}, {'source': 'mod_7ef9fc', 'target': 'modifier_हरी_bd12fd', 'attributes': {}}]
+2
+noun_कहां_मिर्च_a764e2
+{'id': 'noun_कहां_मिर्च_a764e2', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'मिर्च'}}
+Measure node: 2 (Dependency: 2:card)
+modifier
+Modifier node: हरी (Dependency: 2:mod)
+sr कहां
+बना-imperative
+['-', '-', '-', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['बना-o_1', 'मिर्च', '2', 'हरी']
+cp ['banA_1-o_1', 'mirca_1', '2', 'harI_1']
+['0:main', '1:k2p', '2:card', '2:mod']
+['-', '-', '-', '-']
+<sent_id=4f7aa>
+#बना-imperative मिर्च  हरी
+banA_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	1:k2p	-	-	-	-
+2	3	-	-	2:card	-	-	-	-
+harI_1	4	-	-	2:mod	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=4f7aa>
+#बना-imperative मिर्च  हरी
+banA_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	1:k2p	-	-	-	-
+2	3	-	-	2:card	-	-	-	-
+harI_1	4	-	-	2:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: बना-imperative (Index: 1)
+verb_tam
+relation
+noun
+Noun/Ingredient/Modifier node found: मिर्च
+quant_label
+quant
+Measurement/Quantity node found: सभी
+mod
+modifier
+Noun/Ingredient/Modifier node found: हरी
+
+===== Filtering Nodes into Final List =====
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+quant
+modifier
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: बना-imperative (Index: 1, Dependency: 0:main)
+noun
+कब
+k7t
+Noun node: मिर्च (Dependency: 1:k7t)
+quant
+[{'source': 'verb_tam_बना_imperative_e3c598', 'target': 'relation_कब_0_461188', 'attributes': {}}, {'source': 'relation_कब_0_461188', 'target': 'noun_कब_मिर्च_e8aa1c', 'attributes': {}}, {'source': 'noun_कब_मिर्च_e8aa1c', 'target': 'quantity__5301fd', 'attributes': {}}, {'source': 'noun_कब_मिर्च_e8aa1c', 'target': 'mod_9fe775', 'attributes': {}}, {'source': 'quantity__5301fd', 'target': 'quantity_सभी_6db595', 'attributes': {}}, {'source': 'mod_9fe775', 'target': 'modifier_हरी_2f965b', 'attributes': {}}]
+सभी
+noun_कब_मिर्च_e8aa1c
+{'id': 'noun_कब_मिर्च_e8aa1c', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'मिर्च'}}
+Measure node: सभी (Dependency: 2:quant)
+modifier
+Modifier node: हरी (Dependency: 2:mod)
+sr कब
+बना-imperative
+['-', '-', '-', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['बना-o_1', 'मिर्च', 'सभी', 'हरी']
+cp ['banA_1-o_1', 'mirca_1', 'saBI_1', 'harI_1']
+['0:main', '1:k7t', '2:quant', '2:mod']
+['-', '-', '-', '-']
+<sent_id=910da>
+#बना-imperative मिर्च सभी हरी
+banA_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	1:k7t	-	-	-	-
+saBI_1	3	-	-	2:quant	-	-	-	-
+harI_1	4	-	-	2:mod	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=910da>
+#बना-imperative मिर्च सभी हरी
+banA_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	1:k7t	-	-	-	-
+saBI_1	3	-	-	2:quant	-	-	-	-
+harI_1	4	-	-	2:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: डाल-imperative (Index: 1)
+verb_tam
+relation
+noun
+Noun/Ingredient/Modifier node found: मिर्च
+card
+number
+Measurement/Quantity node found: 5
+mod
+modifier
+10.2.133.167 - - [28/Feb/2025 17:50:04] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:50:14] "OPTIONS /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:50:14] "POST /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:51:32] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:51:33] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:51:33] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:51:33] "GET /recipe/avMhJ0q4kd8caRK5qlQm HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:52:25] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:52:25] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:52:25] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:52:25] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:52:25] "OPTIONS /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:52:25] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:52:37] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:52:46] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:52:46] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:52:46] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:52:46] "GET /recipe/9d7NJbL3qyS5RcxfdivO HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:53:22] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:53:22] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:53:22] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:53:22] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:53:22] "OPTIONS /graphtousr HTTP/1.1" 200 -
+Noun/Ingredient/Modifier node found: हरी
+
+===== Filtering Nodes into Final List =====
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+number
+modifier
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: डाल-imperative (Index: 1, Dependency: 0:main)
+noun
+क्या-कर्ता
+k1
+Noun node: मिर्च (Dependency: 1:k1)
+number
+[{'source': 'verb_tam_डाल_imperative_89d7b7', 'target': 'relation_क्या-कर्ता_0_2dbb51', 'attributes': {}}, {'source': 'relation_क्या-कर्ता_0_2dbb51', 'target': 'noun_क्या-कर्ता_मिर्च_6d69d9', 'attributes': {}}, {'source': 'noun_क्या-कर्ता_मिर्च_6d69d9', 'target': 'num__e9cb4f', 'attributes': {}}, {'source': 'noun_क्या-कर्ता_मिर्च_6d69d9', 'target': 'mod_b86c8e', 'attributes': {}}, {'source': 'num__e9cb4f', 'target': 'number_5_968c9c', 'attributes': {}}, {'source': 'mod_b86c8e', 'target': 'modifier_हरी_8eca10', 'attributes': {}}]
+5
+noun_क्या-कर्ता_मिर्च_6d69d9
+{'id': 'noun_क्या-कर्ता_मिर्च_6d69d9', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'मिर्च'}}
+Measure node: 5 (Dependency: 2:card)
+modifier
+Modifier node: हरी (Dependency: 2:mod)
+sr क्या-कर्ता
+डाल-imperative
+['-', '-', '-', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['डाल-o_1', 'मिर्च', '5', 'हरी']
+cp ['dAla_1-o_1', 'mirca_1', '5', 'harI_1']
+['0:main', '1:k1', '2:card', '2:mod']
+['-', '-', '-', '-']
+<sent_id=ded8a>
+#डाल-imperative मिर्च  हरी
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	1:k1	-	-	-	-
+5	3	-	-	2:card	-	-	-	-
+harI_1	4	-	-	2:mod	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=ded8a>
+#डाल-imperative मिर्च  हरी
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	1:k1	-	-	-	-
+5	3	-	-	2:card	-	-	-	-
+harI_1	4	-	-	2:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: बना-imperative (Index: 1)
+verb_tam
+relation
+conj
+Connector node found: [conj_1]
+option
+noun
+Noun/Ingredient/Modifier node found: पैन
+mod
+modifier
+Noun/Ingredient/Modifier node found: हरी
+option
+noun
+Noun/Ingredient/Modifier node found: तेल
+mod
+modifier
+Noun/Ingredient/Modifier node found: भूरा
+rmeas
+measure
+Measurement/Quantity node found: [meas_1]
+quantity
+quantity_value
+Measurement/Quantity node found: 2
+unit
+unit_value
+Measurement/Quantity node found: मिनट
+
+Remaining connectors added to A_list: ['[conj_1]']
+
+===== Filtering Nodes into Final List =====
+measure
+conj
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+modifier
+modifier
+measure
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: बना-imperative (Index: 1, Dependency: 0:main)
+noun
+Noun node: पैन (Dependency: -)
+modifier
+Modifier node: हरी (Dependency: 2:mod)
+noun
+Noun node: तेल (Dependency: -)
+modifier
+Modifier node: भूरा (Dependency: 4:mod)
+measure
+[{'source': 'verb_tam_बना_imperative_2d57b7', 'target': 'relation_कब_0_05f34f', 'attributes': {}}, {'source': 'relation_कब_0_05f34f', 'target': 'conj_1_997136', 'attributes': {}}, {'source': 'conj_1_997136', 'target': 'op_1_f4d853', 'attributes': {}}, {'source': 'conj_1_997136', 'target': 'op_2_8d680c', 'attributes': {}}, {'source': 'op_1_f4d853', 'target': 'noun_कब_पैन_1_716028', 'attributes': {}}, {'source': 'noun_कब_पैन_1_716028', 'target': 'mod_052a78', 'attributes': {}}, {'source': 'mod_052a78', 'target': 'modifier_हरी_e3d3f3', 'attributes': {}}, {'source': 'op_2_8d680c', 'target': 'noun_कब_तेल_2_a5c631', 'attributes': {}}, {'source': 'noun_कब_तेल_2_a5c631', 'target': 'mod_f5522e', 'attributes': {}}, {'source': 'noun_कब_तेल_2_a5c631', 'target': 'rmeas__318b95', 'attributes': {}}, {'source': 'mod_f5522e', 'target': 'modifier_भूरा_2a5d2e', 'attributes': {}}, {'source': 'rmeas__318b95', 'target': 'measure_conj_1_1fba3c', 'attributes': {}}, {'source': 'measure_conj_1_1fba3c', 'target': 'count_conj_13c692', 'attributes': {}}, {'source': 'measure_conj_1_1fba3c', 'target': 'unit_conj_383ce0', 'attributes': {}}, {'source': 'count_conj_13c692', 'target': 'quantity_value_conj_0e021d', 'attributes': {}}, {'source': 'unit_conj_383ce0', 'target': 'unit_value_conj_742ef2', 'attributes': {}}]
+meas_1
+noun_कब_तेल_2_a5c631
+{'id': 'noun_कब_तेल_2_a5c631', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'तेल'}}
+Measure node: [meas_1] (Dependency: 4:rmeas)
+quantity_value
+Other node: 2 (Dependency: -)
+unit_value
+Other node: मिनट (Dependency: -)
+conj
+Connector node: [conj_1] (Dependency: 1:k7t)
+sr op1
+[conj_1]
+sr op2
+[conj_1]
+4
+तेल
+rmeas
+qi quantity_value_conj_0e021d
+[{'source': 'count_conj_13c692', 'target': 'quantity_value_conj_0e021d', 'attributes': {}}]
+count_conj_13c692
+quantity
+[{'source': 'measure_conj_1_1fba3c', 'target': 'count_conj_13c692', 'attributes': {}}]
+['-', '9:op1', '-', '9:op2', '-', '-', '6:count', '6:unit', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['बना-o_1', 'पैन', 'हरी', 'तेल', 'भूरा', '[meas_1]', '2', 'मिनट', '[conj_1]']
+cp ['banA_1-o_1', 'pEna_1', 'harI_1', 'wela_1', 'BUrA_1', '[meas_1]', '2', 'minata_1', '[conj_1]']
+['0:main', '-', '2:mod', '-', '4:mod', '4:rmeas', '-', '-', '1:k7t']
+['-', '9:op1', '-', '9:op2', '-', '-', '6:count', '6:unit', '-']
+<sent_id=08c1a>
+#बना-imperative पैन हरी तेल भूरा   मिनट 
+banA_1-o_1	1	-	-	0:main	-	-	-	-
+pEna_1	2	-	-	-	-	-	-	9:op1
+harI_1	3	-	-	2:mod	-	-	-	-
+wela_1	4	-	-	-	-	-	-	9:op2
+BUrA_1	5	-	-	4:mod	-	-	-	-
+[meas_1]	6	-	-	4:rmeas	-	-	-	-
+2	7	-	-	-	-	-	-	6:count
+minata_1	8	-	-	-	-	-	-	6:unit
+[conj_1]	9	-	-	1:k7t	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=08c1a>
+#बना-imperative पैन हरी तेल भूरा   मिनट
+banA_1-o_1	1	-	-	0:main	-	-	-	-
+pEna_1	2	-	-	-	-	-	-	9:op1
+harI_1	3	-	-	2:mod	-	-	-	-
+wela_1	4	-	-	-	-	-	-	9:op2
+BUrA_1	5	-	-	4:mod	-	-	-	-
+[meas_1]	6	-	-	4:rmeas	-	-	-	-
+2	7	-	-	-	-	-	-	6:count
+minata_1	8	-	-	-	-	-	-	6:unit
+[conj_1]	9	-	-	1:k7t	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: डाल-imperative (Index: 1)
+verb_tam
+relation
+conj
+Connector node found: [conj_1]
+option
+noun
+Noun/Ingredient/Modifier node found: पैन
+mod
+modifier
+Noun/Ingredient/Modifier node found: हरी
+option
+noun
+Noun/Ingredient/Modifier node found: तेल
+rmeas
+measure
+Measurement/Quantity node found: [meas_1]
+quantity
+quantity_value
+Measurement/Quantity node found: 2
+unit
+unit_value
+Measurement/Quantity node found: मिनट
+
+Remaining connectors added to A_list: ['[conj_1]']
+
+===== Filtering Nodes into Final List =====
+measure
+conj
+
+===== Relation to Dependency Mapping =====
+10.2.133.167 - - [28/Feb/2025 17:53:22] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:54:23] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:54:31] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:54:31] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:54:31] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:54:31] "GET /recipe/1li7nwhqUyB6fCysbyUC HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:55:09] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:55:09] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:55:09] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:55:09] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 17:55:09] "OPTIONS /graphtousr HTTP/1.1" 200 -
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+modifier
+measure
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: डाल-imperative (Index: 1, Dependency: 0:main)
+noun
+Noun node: पैन (Dependency: -)
+modifier
+Modifier node: हरी (Dependency: 2:mod)
+noun
+Noun node: तेल (Dependency: -)
+measure
+[{'source': 'verb_tam_डाल_imperative_57afb7', 'target': 'relation_कब_0_3fe933', 'attributes': {}}, {'source': 'relation_कब_0_3fe933', 'target': 'conj_1_95ca40', 'attributes': {}}, {'source': 'conj_1_95ca40', 'target': 'op_1_c56468', 'attributes': {}}, {'source': 'conj_1_95ca40', 'target': 'op_2_f23bfd', 'attributes': {}}, {'source': 'op_1_c56468', 'target': 'noun_कब_पैन_1_5f242a', 'attributes': {}}, {'source': 'noun_कब_पैन_1_5f242a', 'target': 'mod_03752a', 'attributes': {}}, {'source': 'mod_03752a', 'target': 'modifier_हरी_3a1b30', 'attributes': {}}, {'source': 'op_2_f23bfd', 'target': 'noun_कब_तेल_2_c66dd7', 'attributes': {}}, {'source': 'noun_कब_तेल_2_c66dd7', 'target': 'rmeas__83f3d7', 'attributes': {}}, {'source': 'rmeas__83f3d7', 'target': 'measure_conj_1_c9e7d4', 'attributes': {}}, {'source': 'measure_conj_1_c9e7d4', 'target': 'count_conj_fc6c42', 'attributes': {}}, {'source': 'measure_conj_1_c9e7d4', 'target': 'unit_conj_64709e', 'attributes': {}}, {'source': 'count_conj_fc6c42', 'target': 'quantity_value_conj_231df5', 'attributes': {}}, {'source': 'unit_conj_64709e', 'target': 'unit_value_conj_e81aa8', 'attributes': {}}]
+meas_1
+noun_कब_तेल_2_c66dd7
+{'id': 'noun_कब_तेल_2_c66dd7', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'तेल'}}
+Measure node: [meas_1] (Dependency: 4:rmeas)
+quantity_value
+Other node: 2 (Dependency: -)
+unit_value
+Other node: मिनट (Dependency: -)
+conj
+Connector node: [conj_1] (Dependency: 1:k7t)
+sr op1
+[conj_1]
+sr op2
+[conj_1]
+4
+तेल
+rmeas
+qi quantity_value_conj_231df5
+[{'source': 'count_conj_fc6c42', 'target': 'quantity_value_conj_231df5', 'attributes': {}}]
+count_conj_fc6c42
+quantity
+[{'source': 'measure_conj_1_c9e7d4', 'target': 'count_conj_fc6c42', 'attributes': {}}]
+['-', '8:op1', '-', '8:op2', '-', '5:count', '5:unit', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['डाल-o_1', 'पैन', 'हरी', 'तेल', '[meas_1]', '2', 'मिनट', '[conj_1]']
+cp ['dAla_1-o_1', 'pEna_1', 'harI_1', 'wela_1', '[meas_1]', '2', 'minata_1', '[conj_1]']
+['0:main', '-', '2:mod', '-', '4:rmeas', '-', '-', '1:k7t']
+['-', '8:op1', '-', '8:op2', '-', '5:count', '5:unit', '-']
+<sent_id=c9d5a>
+#डाल-imperative पैन हरी तेल   मिनट 
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+pEna_1	2	-	-	-	-	-	-	8:op1
+harI_1	3	-	-	2:mod	-	-	-	-
+wela_1	4	-	-	-	-	-	-	8:op2
+[meas_1]	5	-	-	4:rmeas	-	-	-	-
+2	6	-	-	-	-	-	-	5:count
+minata_1	7	-	-	-	-	-	-	5:unit
+[conj_1]	8	-	-	1:k7t	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=c9d5a>
+#डाल-imperative पैन हरी तेल   मिनट
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+pEna_1	2	-	-	-	-	-	-	8:op1
+harI_1	3	-	-	2:mod	-	-	-	-
+wela_1	4	-	-	-	-	-	-	8:op2
+[meas_1]	5	-	-	4:rmeas	-	-	-	-
+2	6	-	-	-	-	-	-	5:count
+minata_1	7	-	-	-	-	-	-	5:unit
+[conj_1]	8	-	-	1:k7t	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: डाल-imperative (Index: 1)
+verb_tam
+relation
+conj
+Connector node found: [conj_1]
+option
+noun
+Noun/Ingredient/Modifier node found: पैन
+mod
+modifier
+Noun/Ingredient/Modifier node found: हरी
+option
+noun
+Noun/Ingredient/Modifier node found: तेल
+rmeas
+measure
+Measurement/Quantity node found: [meas_1]
+quantity
+quantity_value
+Measurement/Quantity node found: 2
+unit
+unit_value
+Measurement/Quantity node found: मिनट
+
+Remaining connectors added to A_list: ['[conj_1]']
+
+===== Filtering Nodes into Final List =====
+measure
+conj
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+modifier
+measure
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: डाल-imperative (Index: 1, Dependency: 0:main)
+noun
+Noun node: पैन (Dependency: -)
+modifier
+Modifier node: हरी (Dependency: 2:mod)
+noun
+Noun node: तेल (Dependency: -)
+measure
+[{'source': 'verb_tam_डाल_imperative_1cc053', 'target': 'relation_कब_0_5b56fa', 'attributes': {}}, {'source': 'relation_कब_0_5b56fa', 'target': 'conj_1_af586f', 'attributes': {}}, {'source': 'conj_1_af586f', 'target': 'op_1_b550a9', 'attributes': {}}, {'source': 'conj_1_af586f', 'target': 'op_2_2254ae', 'attributes': {}}, {'source': 'op_1_b550a9', 'target': 'noun_कब_पैन_1_59d3c4', 'attributes': {}}, {'source': 'noun_कब_पैन_1_59d3c4', 'target': 'mod_cec400', 'attributes': {}}, {'source': 'mod_cec400', 'target': 'modifier_हरी_7b6077', 'attributes': {}}, {'source': 'op_2_2254ae', 'target': 'noun_कब_तेल_2_329b13', 'attributes': {}}, {'source': 'noun_कब_तेल_2_329b13', 'target': 'rmeas__829cdb', 'attributes': {}}, {'source': 'rmeas__829cdb', 'target': 'measure_conj_1_a548dc', 'attributes': {}}, {'source': 'measure_conj_1_a548dc', 'target': 'count_conj_97fb38', 'attributes': {}}, {'source': 'measure_conj_1_a548dc', 'target': 'unit_conj_85f7c5', 'attributes': {}}, {'source': 'count_conj_97fb38', 'target': 'quantity_value_conj_336948', 'attributes': {}}, {'source': 'unit_conj_85f7c5', 'target': 'unit_value_conj_2e8271', 'attributes': {}}]
+meas_1
+noun_कब_तेल_2_329b13
+{'id': 'noun_कब_तेल_2_329b13', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'तेल'}}
+Measure node: [meas_1] (Dependency: 4:rmeas)
+quantity_value
+Other node: 2 (Dependency: -)
+unit_value
+Other node: मिनट (Dependency: -)
+conj
+Connector node: [conj_1] (Dependency: 1:k7t)
+sr op1
+[conj_1]
+sr op2
+[conj_1]
+4
+तेल
+rmeas
+qi quantity_value_conj_336948
+[{'source': 'count_conj_97fb38', 'target': 'quantity_value_conj_336948', 'attributes': {}}]
+count_conj_97fb38
+quantity
+[{'source': 'measure_conj_1_a548dc', 'target': 'count_conj_97fb38', 'attributes': {}}]
+['-', '8:op1', '-', '8:op2', '-', '5:count', '5:unit', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['डाल-o_1', 'पैन', 'हरी', 'तेल', '[meas_1]', '2', 'मिनट', '[conj_1]']
+cp ['dAla_1-o_1', 'pEna_1', 'harI_1', 'wela_1', '[meas_1]', '2', 'minata_1', '[conj_1]']
+['0:main', '-', '2:mod', '-', '4:rmeas', '-', '-', '1:k7t']
+['-', '8:op1', '-', '8:op2', '-', '5:count', '5:unit', '-']
+<sent_id=3231a>
+#डाल-imperative पैन हरी तेल   मिनट 
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+pEna_1	2	-	-	-	-	-	-	8:op1
+harI_1	3	-	-	2:mod	-	-	-	-
+wela_1	4	-	-	-	-	-	-	8:op2
+[meas_1]	5	-	-	4:rmeas	-	-	-	-
+2	6	-	-	-	-	-	-	5:count
+minata_1	7	-	-	-	-	-	-	5:unit
+[conj_1]	8	-	-	1:k7t	-	-	-	-
+%affirmative								
+</sent_id>
+10.2.133.167 - - [28/Feb/2025 17:55:09] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:00:26] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:01:03] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:01:03] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:01:03] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:01:03] "GET /recipe/OvPEuFvFPtFYVBLIEOdU HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:01:23] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:39:47] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:41:22] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:41:22] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:41:22] "GET /recipe/kElXWbvexSGlTM0EFXxw HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:41:23] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:42:30] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:42:30] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:42:30] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:42:30] "GET /recipe/qZtVQq8w1awyM174p7NC HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:46:30] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:46:30] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:46:30] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:46:30] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:46:30] "OPTIONS /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:46:30] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:46:48] "GET /get-sentences/qZtVQq8w1awyM174p7NC HTTP/1.1" 200 -
+10.2.133.167 - - [28/Feb/2025 18:48:25] "GET /get-sentences/qZtVQq8w1awyM174p7NC HTTP/1.1" 200 -
+10.2.133.167 - - [01/Mar/2025 10:19:22] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [01/Mar/2025 10:35:20] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [01/Mar/2025 10:52:06] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [01/Mar/2025 11:03:19] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [01/Mar/2025 11:04:11] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [01/Mar/2025 11:04:33] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [01/Mar/2025 11:05:16] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:47:20] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:48:08] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:48:08] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:48:08] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:48:08] "GET /recipe/qU5CyFb4sxkZO9uJ0tEO HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:48:30] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:48:38] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:48:38] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:48:38] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:48:38] "GET /recipe/ohdRz3CJ0J1H4bp6jJGY HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:49:36] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:49:45] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:49:45] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:49:45] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:49:45] "GET /recipe/LoVxCemNhPlRbx8a04bS HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:50:36] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:50:36] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:50:36] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:50:37] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 12:50:37] "OPTIONS /graphtousr HTTP/1.1" 200 -
+<sent_id=3231a>
+#डाल-imperative पैन हरी तेल   मिनट
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+pEna_1	2	-	-	-	-	-	-	8:op1
+harI_1	3	-	-	2:mod	-	-	-	-
+wela_1	4	-	-	-	-	-	-	8:op2
+[meas_1]	5	-	-	4:rmeas	-	-	-	-
+2	6	-	-	-	-	-	-	5:count
+minata_1	7	-	-	-	-	-	-	5:unit
+[conj_1]	8	-	-	1:k7t	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: गर्म+कर-imperative (Index: 1)
+verb_tam
+relation
+noun
+Noun/Ingredient/Modifier node found: मिर्च
+mod
+modifier
+Noun/Ingredient/Modifier node found: हरी
+relation
+noun
+Noun/Ingredient/Modifier node found: पैन
+
+===== Filtering Nodes into Final List =====
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+modifier
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: गर्म+कर-imperative (Index: 1, Dependency: 0:main)
+noun
+क्या-कर्म
+k2
+Noun node: मिर्च (Dependency: 1:k2)
+modifier
+Modifier node: हरी (Dependency: 2:mod)
+noun
+किस में
+k7p
+Noun node: पैन (Dependency: 1:k7p)
+sr क्या-कर्म
+गर्म+कर-imperative
+sr किस में
+गर्म+कर-imperative
+['-', '-', '-', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['गर्म+कर-o_1', 'मिर्च', 'हरी', 'पैन']
+cp ['garma+kara_1-o_1', 'mirca_1', 'harI_1', 'pEna_1']
+['0:main', '1:k2', '2:mod', '1:k7p']
+['-', '-', '-', '-']
+<sent_id=db99a>
+#गर्म+कर-imperative मिर्च हरी पैन
+garma+kara_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	1:k2	-	-	-	-
+harI_1	3	-	-	2:mod	-	-	-	-
+pEna_1	4	-	-	1:k7p	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=db99a>
+#गर्म+कर-imperative मिर्च हरी पैन
+garma_1	5	-	-	-	-	-	-	1:kriyAmUla
+kara_1-o_1	6	-	-	-	-	-	-	1:verbalizer
+[cp_1]	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	1:k2	-	-	-	-
+harI_1	3	-	-	2:mod	-	-	-	-
+pEna_1	4	-	-	1:k7p	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: डाल-imperative (Index: 1)
+verb_tam
+relation
+noun
+Noun/Ingredient/Modifier node found: मिर्च
+mod
+modifier
+Noun/Ingredient/Modifier node found: हरी
+intf
+intensifier
+Measurement/Quantity node found: बहुत
+relation
+noun
+Noun/Ingredient/Modifier node found: मिर्च
+span_dynamic
+Connector node found: [span_1]
+rmeas
+start
+end
+rmeas
+measure
+Measurement/Quantity node found: [meas_1]
+quantity
+quantity_value
+Measurement/Quantity node found: 2
+unit
+unit_value
+Measurement/Quantity node found: घंटा
+rmeas
+measure
+Measurement/Quantity node found: [meas_2]
+quantity
+quantity_value
+Measurement/Quantity node found: 2
+unit
+unit_value
+Measurement/Quantity node found: मिनट
+
+Remaining connectors added to A_list: ['[span_1]']
+
+===== Filtering Nodes into Final List =====
+measure
+measure
+span_dynamic
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+modifier
+span_dynamic
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: डाल-imperative (Index: 1, Dependency: 0:main)
+noun
+क्या-कर्ता
+k1
+Noun node: मिर्च (Dependency: 1:k1)
+modifier
+Modifier node: हरी (Dependency: 2:mod)
+intensifier
+intensidier node:{node_label} (Dependency: -)
+noun
+क्या-कर्ता
+k1
+Noun node: मिर्च (Dependency: 1:k1)
+measure
+[{'source': 'verb_tam_डाल_imperative_a4c132', 'target': 'relation_क्या-कर्ता_0_83416e', 'attributes': {}}, {'source': 'verb_tam_डाल_imperative_a4c132', 'target': 'relation_क्या-कर्ता_1_a0f72b', 'attributes': {}}, {'source': 'relation_क्या-कर्ता_0_83416e', 'target': 'noun_क्या-कर्ता_मिर्च_492578', 'attributes': {}}, {'source': 'noun_क्या-कर्ता_मिर्च_492578', 'target': 'mod_00445d', 'attributes': {}}, {'source': 'mod_00445d', 'target': 'modifier_हरी_964510', 'attributes': {}}, {'source': 'modifier_हरी_964510', 'target': 'intf_c2fd47', 'attributes': {}}, {'source': 'intf_c2fd47', 'target': 'intensifier_बहुत_555608', 'attributes': {}}, {'source': 'relation_क्या-कर्ता_1_a0f72b', 'target': 'noun_क्या-कर्ता_मिर्च_bc0734', 'attributes': {}}, {'source': 'noun_क्या-कर्ता_मिर्च_bc0734', 'target': 'rmeas__3aae8a', 'attributes': {}}, {'source': 'span_dynamic_1_f56095', 'target': 'start_f72817', 'attributes': {}}, {'source': 'span_dynamic_1_f56095', 'target': 'end_acbaab', 'attributes': {}}, {'source': 'rmeas__3aae8a', 'target': 'span_dynamic_1_f56095', 'attributes': {}}, {'source': 'start_f72817', 'target': 'rmeas__2acd1e', 'attributes': {}}, {'source': 'end_acbaab', 'target': 'rmeas__755288', 'attributes': {}}, {'source': 'rmeas__2acd1e', 'target': 'measure_start_1_f6cb37', 'attributes': {}}, {'source': 'measure_start_1_f6cb37', 'target': 'count_start_d05bd5', 'attributes': {}}, {'source': 'measure_start_1_f6cb37', 'target': 'unit_start_a0f553', 'attributes': {}}, {'source': 'count_start_d05bd5', 'target': 'quantity_value_start_818a16', 'attributes': {}}, {'source': 'unit_start_a0f553', 'target': 'unit_value_start_aee315', 'attributes': {}}, {'source': 'rmeas__755288', 'target': 'measure_end_2_18ab7a', 'attributes': {}}, {'source': 'measure_end_2_18ab7a', 'target': 'count_end_21b883', 'attributes': {}}, {'source': 'measure_end_2_18ab7a', 'target': 'unit_end_6c775d', 'attributes': {}}, {'source': 'count_end_21b883', 'target': 'quantity_value_end_683535', 'attributes': {}}, {'source': 'unit_end_6c775d', 'target': 'unit_value_end_3cce93', 'attributes': {}}]
+meas_1
+noun_क्या-कर्ता_मिर्च_bc0734
+{'id': 'noun_क्या-कर्ता_मिर्च_bc0734', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'मिर्च'}}
+Measure node: [meas_1] (Dependency: 5:rmeas)
+quantity_value
+Other node: 2 (Dependency: -)
+unit_value
+Other node: घंटा (Dependency: -)
+measure
+10.2.133.167 - - [06/Mar/2025 12:50:37] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:01:42] "OPTIONS /remove-sentences HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:01:42] "POST /remove-sentences HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:02:05] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:02:05] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:02:05] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:02:05] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:02:05] "OPTIONS /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:02:05] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:03:37] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:03:45] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:03:45] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:03:45] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:03:45] "GET /recipe/RmNavDmZ4Nd89ck95GBh HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:04:07] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:04:07] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:04:08] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:04:08] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:04:08] "OPTIONS /graphtousr HTTP/1.1" 200 -
+[{'source': 'verb_tam_डाल_imperative_a4c132', 'target': 'relation_क्या-कर्ता_0_83416e', 'attributes': {}}, {'source': 'verb_tam_डाल_imperative_a4c132', 'target': 'relation_क्या-कर्ता_1_a0f72b', 'attributes': {}}, {'source': 'relation_क्या-कर्ता_0_83416e', 'target': 'noun_क्या-कर्ता_मिर्च_492578', 'attributes': {}}, {'source': 'noun_क्या-कर्ता_मिर्च_492578', 'target': 'mod_00445d', 'attributes': {}}, {'source': 'mod_00445d', 'target': 'modifier_हरी_964510', 'attributes': {}}, {'source': 'modifier_हरी_964510', 'target': 'intf_c2fd47', 'attributes': {}}, {'source': 'intf_c2fd47', 'target': 'intensifier_बहुत_555608', 'attributes': {}}, {'source': 'relation_क्या-कर्ता_1_a0f72b', 'target': 'noun_क्या-कर्ता_मिर्च_bc0734', 'attributes': {}}, {'source': 'noun_क्या-कर्ता_मिर्च_bc0734', 'target': 'rmeas__3aae8a', 'attributes': {}}, {'source': 'span_dynamic_1_f56095', 'target': 'start_f72817', 'attributes': {}}, {'source': 'span_dynamic_1_f56095', 'target': 'end_acbaab', 'attributes': {}}, {'source': 'rmeas__3aae8a', 'target': 'span_dynamic_1_f56095', 'attributes': {}}, {'source': 'start_f72817', 'target': 'rmeas__2acd1e', 'attributes': {}}, {'source': 'end_acbaab', 'target': 'rmeas__755288', 'attributes': {}}, {'source': 'rmeas__2acd1e', 'target': 'measure_start_1_f6cb37', 'attributes': {}}, {'source': 'measure_start_1_f6cb37', 'target': 'count_start_d05bd5', 'attributes': {}}, {'source': 'measure_start_1_f6cb37', 'target': 'unit_start_a0f553', 'attributes': {}}, {'source': 'count_start_d05bd5', 'target': 'quantity_value_start_818a16', 'attributes': {}}, {'source': 'unit_start_a0f553', 'target': 'unit_value_start_aee315', 'attributes': {}}, {'source': 'rmeas__755288', 'target': 'measure_end_2_18ab7a', 'attributes': {}}, {'source': 'measure_end_2_18ab7a', 'target': 'count_end_21b883', 'attributes': {}}, {'source': 'measure_end_2_18ab7a', 'target': 'unit_end_6c775d', 'attributes': {}}, {'source': 'count_end_21b883', 'target': 'quantity_value_end_683535', 'attributes': {}}, {'source': 'unit_end_6c775d', 'target': 'unit_value_end_3cce93', 'attributes': {}}]
+meas_2
+noun_क्या-कर्ता_मिर्च_bc0734
+{'id': 'noun_क्या-कर्ता_मिर्च_bc0734', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'मिर्च'}}
+Measure node: [meas_2] (Dependency: 5:rmeas)
+quantity_value
+Other node: 2 (Dependency: -)
+unit_value
+Other node: मिनट (Dependency: -)
+span_dynamic
+First level target: start_f72817
+Final target found: rmeas__2acd1e
+No measurement or specific relation found, defaulting to 'mod'
+-
+Final dependency for rmeas: 1:meas
+sr क्या-कर्ता
+डाल-imperative
+sr क्या-कर्ता
+डाल-imperative
+None
+start
+rmeas
+qi quantity_value_start_818a16
+[{'source': 'count_start_d05bd5', 'target': 'quantity_value_start_818a16', 'attributes': {}}]
+count_start_d05bd5
+quantity
+[{'source': 'measure_start_1_f6cb37', 'target': 'count_start_d05bd5', 'attributes': {}}]
+None
+end
+rmeas
+qi quantity_value_start_818a16
+[{'source': 'count_start_d05bd5', 'target': 'quantity_value_start_818a16', 'attributes': {}}]
+count_start_d05bd5
+quantity
+[{'source': 'measure_start_1_f6cb37', 'target': 'count_start_d05bd5', 'attributes': {}}]
+['-', '-', '-', '-', '-', '-', '6:count', '6:unit', '-', '6:count', '9:unit', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['डाल-o_1', 'मिर्च', 'हरी', 'बहुत', 'मिर्च', '[meas_1]', '2', 'घंटा', '[meas_2]', '2', 'मिनट', '[span_1]']
+cp ['dAla_1-o_1', 'mirca_1', 'harI_1', 'bahuwa_1', 'mirca_1', '[meas_1]', '2', 'GaMtA_1', '[meas_2]', '2', 'minata_1', '[span_1]']
+['0:main', '1:k1', '2:mod', '3:intf', '1:k1', '5:rmeas', '-', '-', '5:rmeas', '-', '-', '1:meas']
+['-', '-', '-', '-', '-', '-', '6:count', '6:unit', '-', '6:count', '9:unit', '-']
+<sent_id=6577a>
+#डाल-imperative मिर्च हरी बहुत मिर्च   घंटा   मिनट 
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	1:k1	-	-	-	-
+harI_1	3	-	-	2:mod	-	-	-	-
+bahuwa_1	4	-	-	3:intf	-	-	-	-
+mirca_1	5	-	-	1:k1	-	-	-	-
+[meas_1]	6	-	-	5:rmeas	-	-	-	-
+2	7	-	-	-	-	-	-	6:count
+GaMtA_1	8	-	-	-	-	-	-	6:unit
+[meas_2]	9	-	-	5:rmeas	-	-	-	-
+2	10	-	-	-	-	-	-	6:count
+minata_1	11	-	-	-	-	-	-	9:unit
+[span_1]	12	-	-	1:meas	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=6577a>
+#डाल-imperative मिर्च हरी बहुत मिर्च   घंटा   मिनट
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	1:k1	-	-	-	-
+harI_1	3	-	-	2:mod	-	-	-	-
+bahuwa_1	4	-	-	3:intf	-	-	-	-
+mirca_1	5	-	-	1:k1	-	-	-	-
+[meas_1]	6	-	-	5:rmeas	-	-	-	-
+2	7	-	-	-	-	-	-	6:count
+GaMtA_1	8	-	-	-	-	-	-	6:unit
+[meas_2]	9	-	-	5:rmeas	-	-	-	-
+2	10	-	-	-	-	-	-	6:count
+minata_1	11	-	-	-	-	-	-	9:unit
+[span_1]	12	-	-	1:meas	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: डाल-imperative (Index: 1)
+verb_tam
+relation
+noun
+Noun/Ingredient/Modifier node found: पैन
+mod
+modifier
+Noun/Ingredient/Modifier node found: हरी
+
+===== Filtering Nodes into Final List =====
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+modifier
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: डाल-imperative (Index: 1, Dependency: 0:main)
+noun
+कब
+k7t
+Noun node: पैन (Dependency: 1:k7t)
+modifier
+Modifier node: हरी (Dependency: 2:mod)
+sr कब
+डाल-imperative
+['-', '-', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['डाल-o_1', 'पैन', 'हरी']
+cp ['dAla_1-o_1', 'pEna_1', 'harI_1']
+['0:main', '1:k7t', '2:mod']
+['-', '-', '-']
+<sent_id=8a75a>
+#डाल-imperative पैन हरी
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+pEna_1	2	-	-	1:k7t	-	-	-	-
+harI_1	3	-	-	2:mod	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=8a75a>
+#डाल-imperative पैन हरी
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+pEna_1	2	-	-	1:k7t	-	-	-	-
+harI_1	3	-	-	2:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: डाल-imperative (Index: 1)
+verb_tam
+relation
+noun
+Noun/Ingredient/Modifier node found: मिर्च
+mod
+modifier
+Noun/Ingredient/Modifier node found: हरी
+
+===== Filtering Nodes into Final List =====
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+modifier
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: डाल-imperative (Index: 1, Dependency: 0:main)
+noun
+कब
+k7t
+Noun node: मिर्च (Dependency: 1:k7t)
+modifier
+Modifier node: हरी (Dependency: 2:mod)
+sr कब
+डाल-imperative
+['-', '-', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['डाल-o_1', 'मिर्च', 'हरी']
+cp ['dAla_1-o_1', 'mirca_1', 'harI_1']
+['0:main', '1:k7t', '2:mod']
+['-', '-', '-']
+10.2.133.167 - - [06/Mar/2025 13:04:08] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:13:56] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:14:09] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:14:09] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:14:10] "GET /recipe/IPjPuiD3k2l3cAN8Eg9w HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:14:10] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:14:48] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:14:48] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:14:48] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:14:48] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:14:48] "OPTIONS /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:14:48] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:18:56] "OPTIONS /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:18:56] "POST /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:20:51] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:20:51] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:20:51] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:20:51] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:20:51] "OPTIONS /graphtousr HTTP/1.1" 200 -
+<sent_id=d40ba>
+#डाल-imperative मिर्च हरी
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	1:k7t	-	-	-	-
+harI_1	3	-	-	2:mod	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=d40ba>
+#डाल-imperative मिर्च हरी
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	1:k7t	-	-	-	-
+harI_1	3	-	-	2:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: बना-imperative (Index: 1)
+verb_tam
+relation
+noun
+Noun/Ingredient/Modifier node found: मिर्च
+mod
+modifier
+Noun/Ingredient/Modifier node found: हरी
+
+===== Filtering Nodes into Final List =====
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+modifier
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: बना-imperative (Index: 1, Dependency: 0:main)
+noun
+कब
+k7t
+Noun node: मिर्च (Dependency: 1:k7t)
+modifier
+Modifier node: हरी (Dependency: 2:mod)
+sr कब
+बना-imperative
+['-', '-', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['बना-o_1', 'मिर्च', 'हरी']
+cp ['banA_1-o_1', 'mirca_1', 'harI_1']
+['0:main', '1:k7t', '2:mod']
+['-', '-', '-']
+<sent_id=c4d4a>
+#बना-imperative मिर्च हरी
+banA_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	1:k7t	-	-	-	-
+harI_1	3	-	-	2:mod	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=c4d4a>
+#बना-imperative मिर्च हरी
+banA_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	1:k7t	-	-	-	-
+harI_1	3	-	-	2:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: डाल-imperative (Index: 1)
+verb_tam
+relation
+conj
+Connector node found: [conj_1]
+option
+noun
+Noun/Ingredient/Modifier node found: पैन
+mod
+modifier
+Noun/Ingredient/Modifier node found: भूरा
+option
+noun
+Noun/Ingredient/Modifier node found: तेल
+rmeas
+span_dynamic
+Connector node found: [span_1]
+start
+end
+rmeas
+measure
+Measurement/Quantity node found: [meas_1]
+quantity
+quantity_value
+Measurement/Quantity node found: 2
+unit
+unit_value
+Measurement/Quantity node found: चम्मच
+rmeas
+measure
+Measurement/Quantity node found: [meas_2]
+quantity
+quantity_value
+Measurement/Quantity node found: 3
+unit
+unit_value
+Measurement/Quantity node found: घंटा
+
+Remaining connectors added to A_list: ['[span_1]']
+
+===== Filtering Nodes into Final List =====
+conj
+measure
+measure
+span_dynamic
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+modifier
+span_dynamic
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: डाल-imperative (Index: 1, Dependency: 0:main)
+noun
+Noun node: पैन (Dependency: -)
+modifier
+Modifier node: भूरा (Dependency: 2:mod)
+noun
+Noun node: तेल (Dependency: -)
+conj
+Connector node: [conj_1] (Dependency: 1:k7t)
+measure
+[{'source': 'verb_tam_डाल_imperative_62b611', 'target': 'relation_कब_0_c4c5d8', 'attributes': {}}, {'source': 'relation_कब_0_c4c5d8', 'target': 'conj_1_06b56c', 'attributes': {}}, {'source': 'conj_1_06b56c', 'target': 'op_1_79439f', 'attributes': {}}, {'source': 'conj_1_06b56c', 'target': 'op_2_11a764', 'attributes': {}}, {'source': 'op_1_79439f', 'target': 'noun_कब_पैन_1_bb8fc8', 'attributes': {}}, {'source': 'noun_कब_पैन_1_bb8fc8', 'target': 'mod_a0ecb7', 'attributes': {}}, {'source': 'mod_a0ecb7', 'target': 'modifier_भूरा_849e96', 'attributes': {}}, {'source': 'op_2_11a764', 'target': 'noun_कब_तेल_2_067195', 'attributes': {}}, {'source': 'noun_कब_तेल_2_067195', 'target': 'rmeas__fd079a', 'attributes': {}}, {'source': 'rmeas__fd079a', 'target': 'span_dynamic_1_c832a7', 'attributes': {}}, {'source': 'span_dynamic_1_c832a7', 'target': 'start_b0b5dd', 'attributes': {}}, {'source': 'span_dynamic_1_c832a7', 'target': 'end_1ae12f', 'attributes': {}}, {'source': 'start_b0b5dd', 'target': 'rmeas__93273f', 'attributes': {}}, {'source': 'end_1ae12f', 'target': 'rmeas__8ead7b', 'attributes': {}}, {'source': 'rmeas__93273f', 'target': 'measure_start_1_4964d5', 'attributes': {}}, {'source': 'measure_start_1_4964d5', 'target': 'count_start_e6b432', 'attributes': {}}, {'source': 'measure_start_1_4964d5', 'target': 'unit_start_bcd004', 'attributes': {}}, {'source': 'count_start_e6b432', 'target': 'quantity_value_start_a77a0f', 'attributes': {}}, {'source': 'unit_start_bcd004', 'target': 'unit_value_start_7eee3b', 'attributes': {}}, {'source': 'rmeas__8ead7b', 'target': 'measure_end_2_095535', 'attributes': {}}, {'source': 'measure_end_2_095535', 'target': 'count_end_7e9ab6', 'attributes': {}}, {'source': 'measure_end_2_095535', 'target': 'unit_end_a0f994', 'attributes': {}}, {'source': 'count_end_7e9ab6', 'target': 'quantity_value_end_dba59d', 'attributes': {}}, {'source': 'unit_end_a0f994', 'target': 'unit_value_end_d2c127', 'attributes': {}}]
+meas_1
+noun_कब_तेल_2_067195
+{'id': 'noun_कब_तेल_2_067195', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'तेल'}}
+Measure node: [meas_1] (Dependency: 4:rmeas)
+quantity_value
+Other node: 2 (Dependency: -)
+unit_value
+Other node: चम्मच (Dependency: -)
+measure
+10.2.133.167 - - [06/Mar/2025 13:20:51] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:21:03] "OPTIONS /remove-sentences HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:21:03] "POST /remove-sentences HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:22:04] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:22:04] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:22:04] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:22:04] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:22:04] "OPTIONS /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:22:04] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:22:20] "OPTIONS /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:22:20] "POST /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:23:24] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:23:24] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:23:24] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:23:24] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:23:24] "OPTIONS /graphtousr HTTP/1.1" 200 -
+[{'source': 'verb_tam_डाल_imperative_62b611', 'target': 'relation_कब_0_c4c5d8', 'attributes': {}}, {'source': 'relation_कब_0_c4c5d8', 'target': 'conj_1_06b56c', 'attributes': {}}, {'source': 'conj_1_06b56c', 'target': 'op_1_79439f', 'attributes': {}}, {'source': 'conj_1_06b56c', 'target': 'op_2_11a764', 'attributes': {}}, {'source': 'op_1_79439f', 'target': 'noun_कब_पैन_1_bb8fc8', 'attributes': {}}, {'source': 'noun_कब_पैन_1_bb8fc8', 'target': 'mod_a0ecb7', 'attributes': {}}, {'source': 'mod_a0ecb7', 'target': 'modifier_भूरा_849e96', 'attributes': {}}, {'source': 'op_2_11a764', 'target': 'noun_कब_तेल_2_067195', 'attributes': {}}, {'source': 'noun_कब_तेल_2_067195', 'target': 'rmeas__fd079a', 'attributes': {}}, {'source': 'rmeas__fd079a', 'target': 'span_dynamic_1_c832a7', 'attributes': {}}, {'source': 'span_dynamic_1_c832a7', 'target': 'start_b0b5dd', 'attributes': {}}, {'source': 'span_dynamic_1_c832a7', 'target': 'end_1ae12f', 'attributes': {}}, {'source': 'start_b0b5dd', 'target': 'rmeas__93273f', 'attributes': {}}, {'source': 'end_1ae12f', 'target': 'rmeas__8ead7b', 'attributes': {}}, {'source': 'rmeas__93273f', 'target': 'measure_start_1_4964d5', 'attributes': {}}, {'source': 'measure_start_1_4964d5', 'target': 'count_start_e6b432', 'attributes': {}}, {'source': 'measure_start_1_4964d5', 'target': 'unit_start_bcd004', 'attributes': {}}, {'source': 'count_start_e6b432', 'target': 'quantity_value_start_a77a0f', 'attributes': {}}, {'source': 'unit_start_bcd004', 'target': 'unit_value_start_7eee3b', 'attributes': {}}, {'source': 'rmeas__8ead7b', 'target': 'measure_end_2_095535', 'attributes': {}}, {'source': 'measure_end_2_095535', 'target': 'count_end_7e9ab6', 'attributes': {}}, {'source': 'measure_end_2_095535', 'target': 'unit_end_a0f994', 'attributes': {}}, {'source': 'count_end_7e9ab6', 'target': 'quantity_value_end_dba59d', 'attributes': {}}, {'source': 'unit_end_a0f994', 'target': 'unit_value_end_d2c127', 'attributes': {}}]
+meas_2
+noun_कब_तेल_2_067195
+{'id': 'noun_कब_तेल_2_067195', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'तेल'}}
+Measure node: [meas_2] (Dependency: 4:rmeas)
+quantity_value
+Other node: 3 (Dependency: -)
+unit_value
+Other node: घंटा (Dependency: -)
+span_dynamic
+First level target: start_b0b5dd
+Final target found: rmeas__93273f
+No measurement or specific relation found, defaulting to 'mod'
+-
+Final dependency for rmeas: 1:meas
+sr op1
+[conj_1]
+sr op2
+[conj_1]
+None
+start
+rmeas
+qi quantity_value_start_a77a0f
+[{'source': 'count_start_e6b432', 'target': 'quantity_value_start_a77a0f', 'attributes': {}}]
+count_start_e6b432
+quantity
+[{'source': 'measure_start_1_4964d5', 'target': 'count_start_e6b432', 'attributes': {}}]
+None
+end
+rmeas
+qi quantity_value_end_dba59d
+[{'source': 'count_end_7e9ab6', 'target': 'quantity_value_end_dba59d', 'attributes': {}}]
+count_end_7e9ab6
+quantity
+[{'source': 'measure_end_2_095535', 'target': 'count_end_7e9ab6', 'attributes': {}}]
+['-', '5:op1', '-', '5:op2', '-', '-', '6:count', '6:unit', '-', '9:count', '9:unit', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['डाल-o_1', 'पैन', 'भूरा', 'तेल', '[conj_1]', '[meas_1]', '2', 'चम्मच', '[meas_2]', '3', 'घंटा', '[span_1]']
+cp ['dAla_1-o_1', 'pEna_1', 'BUrA_1', 'wela_1', '[conj_1]', '[meas_1]', '2', 'cammaca_1', '[meas_2]', '3', 'GaMtA_1', '[span_1]']
+['0:main', '-', '2:mod', '-', '1:k7t', '4:rmeas', '-', '-', '4:rmeas', '-', '-', '1:meas']
+['-', '5:op1', '-', '5:op2', '-', '-', '6:count', '6:unit', '-', '9:count', '9:unit', '-']
+<sent_id=c846a>
+#डाल-imperative पैन भूरा तेल    चम्मच   घंटा 
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+pEna_1	2	-	-	-	-	-	-	5:op1
+BUrA_1	3	-	-	2:mod	-	-	-	-
+wela_1	4	-	-	-	-	-	-	5:op2
+[conj_1]	5	-	-	1:k7t	-	-	-	-
+[meas_1]	6	-	-	4:rmeas	-	-	-	-
+2	7	-	-	-	-	-	-	6:count
+cammaca_1	8	-	-	-	-	-	-	6:unit
+[meas_2]	9	-	-	4:rmeas	-	-	-	-
+3	10	-	-	-	-	-	-	9:count
+GaMtA_1	11	-	-	-	-	-	-	9:unit
+[span_1]	12	-	-	1:meas	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=c846a>
+#डाल-imperative पैन भूरा तेल    चम्मच   घंटा
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+pEna_1	2	-	-	-	-	-	-	5:op1
+BUrA_1	3	-	-	2:mod	-	-	-	-
+wela_1	4	-	-	-	-	-	-	5:op2
+[conj_1]	5	-	-	1:k7t	-	-	-	-
+[meas_1]	6	-	-	4:rmeas	-	-	-	-
+2	7	-	-	-	-	-	-	6:count
+cammaca_1	8	-	-	-	-	-	-	6:unit
+[meas_2]	9	-	-	4:rmeas	-	-	-	-
+3	10	-	-	-	-	-	-	9:count
+GaMtA_1	11	-	-	-	-	-	-	9:unit
+[span_1]	12	-	-	1:meas	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: डाल-imperative (Index: 1)
+verb_tam
+relation
+noun
+Noun/Ingredient/Modifier node found: पैन
+mod
+modifier
+Noun/Ingredient/Modifier node found: मध्यम
+
+===== Filtering Nodes into Final List =====
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+modifier
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: डाल-imperative (Index: 1, Dependency: 0:main)
+noun
+कब
+k7t
+Noun node: पैन (Dependency: 1:k7t)
+modifier
+Modifier node: मध्यम (Dependency: 2:mod)
+sr कब
+डाल-imperative
+['-', '-', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['डाल-o_1', 'पैन', 'मध्यम']
+cp ['dAla_1-o_1', 'pEna_1', 'maXyama_1']
+['0:main', '1:k7t', '2:mod']
+['-', '-', '-']
+<sent_id=dc3fa>
+#डाल-imperative पैन मध्यम
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+pEna_1	2	-	-	1:k7t	-	-	-	-
+maXyama_1	3	-	-	2:mod	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=dc3fa>
+#डाल-imperative पैन मध्यम
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+pEna_1	2	-	-	1:k7t	-	-	-	-
+maXyama_1	3	-	-	2:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: डाल-imperative (Index: 1)
+verb_tam
+relation
+conj
+Connector node found: [conj_1]
+option
+noun
+Noun/Ingredient/Modifier node found: मिर्च
+mod
+modifier
+Noun/Ingredient/Modifier node found: हरी
+card
+number
+Measurement/Quantity node found: 3
+option
+noun
+Noun/Ingredient/Modifier node found: पैन
+mod
+modifier
+Noun/Ingredient/Modifier node found: मध्यम
+
+Remaining connectors added to A_list: ['[conj_1]']
+
+===== Filtering Nodes into Final List =====
+conj
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+modifier
+number
+modifier
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: डाल-imperative (Index: 1, Dependency: 0:main)
+noun
+Noun node: मिर्च (Dependency: -)
+modifier
+Modifier node: हरी (Dependency: 2:mod)
+number
+10.2.133.167 - - [06/Mar/2025 13:23:24] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:23:29] "OPTIONS /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:23:29] "POST /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:30:39] "GET /get-sentences/RmNavDmZ4Nd89ck95GBh HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:30:55] "GET /get-sentences/RmNavDmZ4Nd89ck95GBh HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:30:59] "GET /get-sentences/RmNavDmZ4Nd89ck95GBh HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:31:18] "GET /get-sentences/RmNavDmZ4Nd89ck95GBh HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:34:58] "GET /get-sentences/RmNavDmZ4Nd89ck95GBh HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:35:06] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:36:14] "OPTIONS /remove-sentences HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:36:14] "POST /remove-sentences HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:36:15] "GET /get-sentences/IPjPuiD3k2l3cAN8Eg9w HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:36:26] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:36:34] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:36:34] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:36:34] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:36:34] "GET /recipe/fycCf6VKzi92JJ4GT7hV HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:38:37] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:38:37] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:38:37] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:38:37] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:38:37] "OPTIONS /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:38:37] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:38:55] "OPTIONS /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:38:55] "POST /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:39:37] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:39:37] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:39:37] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:39:37] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:39:37] "OPTIONS /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:39:37] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:39:41] "OPTIONS /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:39:41] "POST /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:39:42] "GET /get-sentences/fycCf6VKzi92JJ4GT7hV HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:41:36] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:41:36] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:41:36] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:41:36] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:41:36] "OPTIONS /graphtousr HTTP/1.1" 200 -
+[{'source': 'verb_tam_डाल_imperative_664172', 'target': 'relation_कब_0_4a92a9', 'attributes': {}}, {'source': 'relation_कब_0_4a92a9', 'target': 'conj_1_9ba5d4', 'attributes': {}}, {'source': 'conj_1_9ba5d4', 'target': 'op_1_044f93', 'attributes': {}}, {'source': 'conj_1_9ba5d4', 'target': 'op_2_c91eff', 'attributes': {}}, {'source': 'op_1_044f93', 'target': 'noun_कब_मिर्च_1_6ed8ff', 'attributes': {}}, {'source': 'noun_कब_मिर्च_1_6ed8ff', 'target': 'mod_d390f2', 'attributes': {}}, {'source': 'noun_कब_मिर्च_1_6ed8ff', 'target': 'num__245203', 'attributes': {}}, {'source': 'mod_d390f2', 'target': 'modifier_हरी_c0ef70', 'attributes': {}}, {'source': 'num__245203', 'target': 'number_3_d8bc2f', 'attributes': {}}, {'source': 'op_2_c91eff', 'target': 'noun_कब_पैन_2_be3d83', 'attributes': {}}, {'source': 'noun_कब_पैन_2_be3d83', 'target': 'mod_9f6f5b', 'attributes': {}}, {'source': 'mod_9f6f5b', 'target': 'modifier_मध्यम_36a362', 'attributes': {}}]
+3
+noun_कब_मिर्च_1_6ed8ff
+{'id': 'noun_कब_मिर्च_1_6ed8ff', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'मिर्च'}}
+Measure node: 3 (Dependency: 2:card)
+noun
+Noun node: पैन (Dependency: -)
+modifier
+Modifier node: मध्यम (Dependency: 5:mod)
+conj
+Connector node: [conj_1] (Dependency: 1:k7t)
+sr op1
+[conj_1]
+sr op2
+[conj_1]
+['-', '7:op1', '-', '-', '7:op2', '-', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['डाल-o_1', 'मिर्च', 'हरी', '3', 'पैन', 'मध्यम', '[conj_1]']
+cp ['dAla_1-o_1', 'mirca_1', 'harI_1', '3', 'pEna_1', 'maXyama_1', '[conj_1]']
+['0:main', '-', '2:mod', '2:card', '-', '5:mod', '1:k7t']
+['-', '7:op1', '-', '-', '7:op2', '-', '-']
+<sent_id=db00a>
+#डाल-imperative मिर्च हरी  पैन मध्यम 
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	-	-	-	-	7:op1
+harI_1	3	-	-	2:mod	-	-	-	-
+3	4	-	-	2:card	-	-	-	-
+pEna_1	5	-	-	-	-	-	-	7:op2
+maXyama_1	6	-	-	5:mod	-	-	-	-
+[conj_1]	7	-	-	1:k7t	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=db00a>
+#डाल-imperative मिर्च हरी  पैन मध्यम
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	-	-	-	-	7:op1
+harI_1	3	-	-	2:mod	-	-	-	-
+3	4	-	-	2:card	-	-	-	-
+pEna_1	5	-	-	-	-	-	-	7:op2
+maXyama_1	6	-	-	5:mod	-	-	-	-
+[conj_1]	7	-	-	1:k7t	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: लेना-imperative (Index: 1)
+verb_tam
+relation
+noun
+Noun/Ingredient/Modifier node found: पैन
+mod
+modifier
+Noun/Ingredient/Modifier node found: बड़ा
+
+===== Filtering Nodes into Final List =====
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+modifier
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: लेना-imperative (Index: 1, Dependency: 0:main)
+noun
+कब
+k7t
+Noun node: पैन (Dependency: 1:k7t)
+modifier
+Modifier node: बड़ा (Dependency: 2:mod)
+sr कब
+लेना-imperative
+['-', '-', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['लेना-o_1', 'पैन', 'बड़ा']
+cp ['lenA_1-o_1', 'pEna_1', 'badZA_1']
+['0:main', '1:k7t', '2:mod']
+['-', '-', '-']
+<sent_id=b176a>
+#लेना-imperative पैन बड़ा
+lenA_1-o_1	1	-	-	0:main	-	-	-	-
+pEna_1	2	-	-	1:k7t	-	-	-	-
+badZA_1	3	-	-	2:mod	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=b176a>
+#लेना-imperative पैन बड़ा
+lenA_1-o_1	1	-	-	0:main	-	-	-	-
+pEna_1	2	-	-	1:k7t	-	-	-	-
+badZA_1	3	-	-	2:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: डाल-imperative (Index: 1)
+verb_tam
+relation
+noun
+Noun/Ingredient/Modifier node found: मैगी
+card
+number
+Measurement/Quantity node found: 2
+
+===== Filtering Nodes into Final List =====
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+number
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: डाल-imperative (Index: 1, Dependency: 0:main)
+noun
+कब
+k7t
+Noun node: मैगी (Dependency: 1:k7t)
+number
+[{'source': 'verb_tam_डाल_imperative_2544a1', 'target': 'relation_कब_0_d15dda', 'attributes': {}}, {'source': 'relation_कब_0_d15dda', 'target': 'noun_कब_मैगी_6554e4', 'attributes': {}}, {'source': 'noun_कब_मैगी_6554e4', 'target': 'num__069307', 'attributes': {}}, {'source': 'num__069307', 'target': 'number_2_dd53de', 'attributes': {}}]
+2
+noun_कब_मैगी_6554e4
+{'id': 'noun_कब_मैगी_6554e4', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'मैगी'}}
+Measure node: 2 (Dependency: 2:card)
+sr कब
+डाल-imperative
+['-', '-', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['डाल-o_1', 'मैगी', '2']
+cp ['dAla_1-o_1', 'mEgI_1', '2']
+['0:main', '1:k7t', '2:card']
+['-', '-', '-']
+<sent_id=a8f7a>
+#डाल-imperative मैगी 
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+mEgI_1	2	-	-	1:k7t	-	-	-	-
+2	3	-	-	2:card	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=a8f7a>
+#डाल-imperative मैगी
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+mEgI_1	2	-	-	1:k7t	-	-	-	-
+2	3	-	-	2:card	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: डाल-imperative (Index: 1)
+verb_tam
+relation
+noun
+Noun/Ingredient/Modifier node found: पानी
+span_dynamic
+Connector node found: [span_1]
+rmeas
+start
+end
+rmeas
+measure
+Measurement/Quantity node found: [meas_1]
+quantity
+quantity_value
+Measurement/Quantity node found: 2
+unit
+unit_value
+Measurement/Quantity node found: कप
+rmeas
+measure
+Measurement/Quantity node found: [meas_2]
+quantity
+quantity_value
+Measurement/Quantity node found: 3
+unit
+unit_value
+Measurement/Quantity node found: कप
+
+Remaining connectors added to A_list: ['[span_1]']
+
+===== Filtering Nodes into Final List =====
+measure
+measure
+span_dynamic
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+span_dynamic
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: डाल-imperative (Index: 1, Dependency: 0:main)
+noun
+कैसे
+krvn
+Noun node: पानी (Dependency: 1:krvn)
+measure
+10.2.133.167 - - [06/Mar/2025 13:41:36] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:41:41] "OPTIONS /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:41:41] "POST /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:41:43] "GET /get-sentences/fycCf6VKzi92JJ4GT7hV HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:46:46] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:46:46] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:46:46] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:46:47] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:46:47] "OPTIONS /graphtousr HTTP/1.1" 200 -
+[{'source': 'verb_tam_डाल_imperative_7294fa', 'target': 'relation_कैसे_0_e2d5e2', 'attributes': {}}, {'source': 'relation_कैसे_0_e2d5e2', 'target': 'noun_कैसे_पानी_60afdc', 'attributes': {}}, {'source': 'noun_कैसे_पानी_60afdc', 'target': 'rmeas__a7be2c', 'attributes': {}}, {'source': 'span_dynamic_1_3f7160', 'target': 'start_d1151e', 'attributes': {}}, {'source': 'span_dynamic_1_3f7160', 'target': 'end_b40e56', 'attributes': {}}, {'source': 'rmeas__a7be2c', 'target': 'span_dynamic_1_3f7160', 'attributes': {}}, {'source': 'start_d1151e', 'target': 'rmeas__0cbe63', 'attributes': {}}, {'source': 'end_b40e56', 'target': 'rmeas__6ad28a', 'attributes': {}}, {'source': 'rmeas__0cbe63', 'target': 'measure_start_1_78ba4b', 'attributes': {}}, {'source': 'measure_start_1_78ba4b', 'target': 'count_start_1ac85c', 'attributes': {}}, {'source': 'measure_start_1_78ba4b', 'target': 'unit_start_d312e6', 'attributes': {}}, {'source': 'count_start_1ac85c', 'target': 'quantity_value_start_e97405', 'attributes': {}}, {'source': 'unit_start_d312e6', 'target': 'unit_value_start_67fef5', 'attributes': {}}, {'source': 'rmeas__6ad28a', 'target': 'measure_end_2_5ea6b6', 'attributes': {}}, {'source': 'measure_end_2_5ea6b6', 'target': 'count_end_b25985', 'attributes': {}}, {'source': 'measure_end_2_5ea6b6', 'target': 'unit_end_1f5cfa', 'attributes': {}}, {'source': 'count_end_b25985', 'target': 'quantity_value_end_6c5775', 'attributes': {}}, {'source': 'unit_end_1f5cfa', 'target': 'unit_value_end_0c1455', 'attributes': {}}]
+meas_1
+noun_कैसे_पानी_60afdc
+{'id': 'noun_कैसे_पानी_60afdc', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'पानी'}}
+Measure node: [meas_1] (Dependency: 2:rmeas)
+quantity_value
+Other node: 2 (Dependency: -)
+unit_value
+Other node: कप (Dependency: -)
+measure
+[{'source': 'verb_tam_डाल_imperative_7294fa', 'target': 'relation_कैसे_0_e2d5e2', 'attributes': {}}, {'source': 'relation_कैसे_0_e2d5e2', 'target': 'noun_कैसे_पानी_60afdc', 'attributes': {}}, {'source': 'noun_कैसे_पानी_60afdc', 'target': 'rmeas__a7be2c', 'attributes': {}}, {'source': 'span_dynamic_1_3f7160', 'target': 'start_d1151e', 'attributes': {}}, {'source': 'span_dynamic_1_3f7160', 'target': 'end_b40e56', 'attributes': {}}, {'source': 'rmeas__a7be2c', 'target': 'span_dynamic_1_3f7160', 'attributes': {}}, {'source': 'start_d1151e', 'target': 'rmeas__0cbe63', 'attributes': {}}, {'source': 'end_b40e56', 'target': 'rmeas__6ad28a', 'attributes': {}}, {'source': 'rmeas__0cbe63', 'target': 'measure_start_1_78ba4b', 'attributes': {}}, {'source': 'measure_start_1_78ba4b', 'target': 'count_start_1ac85c', 'attributes': {}}, {'source': 'measure_start_1_78ba4b', 'target': 'unit_start_d312e6', 'attributes': {}}, {'source': 'count_start_1ac85c', 'target': 'quantity_value_start_e97405', 'attributes': {}}, {'source': 'unit_start_d312e6', 'target': 'unit_value_start_67fef5', 'attributes': {}}, {'source': 'rmeas__6ad28a', 'target': 'measure_end_2_5ea6b6', 'attributes': {}}, {'source': 'measure_end_2_5ea6b6', 'target': 'count_end_b25985', 'attributes': {}}, {'source': 'measure_end_2_5ea6b6', 'target': 'unit_end_1f5cfa', 'attributes': {}}, {'source': 'count_end_b25985', 'target': 'quantity_value_end_6c5775', 'attributes': {}}, {'source': 'unit_end_1f5cfa', 'target': 'unit_value_end_0c1455', 'attributes': {}}]
+meas_2
+noun_कैसे_पानी_60afdc
+{'id': 'noun_कैसे_पानी_60afdc', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'पानी'}}
+Measure node: [meas_2] (Dependency: 2:rmeas)
+quantity_value
+Other node: 3 (Dependency: -)
+unit_value
+Other node: कप (Dependency: -)
+span_dynamic
+First level target: start_d1151e
+Final target found: rmeas__0cbe63
+No measurement or specific relation found, defaulting to 'mod'
+-
+Final dependency for rmeas: 1:meas
+sr कैसे
+डाल-imperative
+None
+start
+rmeas
+qi quantity_value_start_e97405
+[{'source': 'count_start_1ac85c', 'target': 'quantity_value_start_e97405', 'attributes': {}}]
+count_start_1ac85c
+quantity
+[{'source': 'measure_start_1_78ba4b', 'target': 'count_start_1ac85c', 'attributes': {}}]
+None
+end
+rmeas
+qi quantity_value_end_6c5775
+[{'source': 'count_end_b25985', 'target': 'quantity_value_end_6c5775', 'attributes': {}}]
+count_end_b25985
+quantity
+[{'source': 'measure_end_2_5ea6b6', 'target': 'count_end_b25985', 'attributes': {}}]
+['-', '-', '-', '3:count', '3:unit', '-', '6:count', '6:unit', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['डाल-o_1', 'पानी', '[meas_1]', '2', 'कप', '[meas_2]', '3', 'कप', '[span_1]']
+cp ['dAla_1-o_1', 'pAnI_1', '[meas_1]', '2', 'kapa_1', '[meas_2]', '3', 'kapa_1', '[span_1]']
+['0:main', '1:krvn', '2:rmeas', '-', '-', '2:rmeas', '-', '-', '1:meas']
+['-', '-', '-', '3:count', '3:unit', '-', '6:count', '6:unit', '-']
+<sent_id=d025a>
+#डाल-imperative पानी   कप   कप 
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+pAnI_1	2	-	-	1:krvn	-	-	-	-
+[meas_1]	3	-	-	2:rmeas	-	-	-	-
+2	4	-	-	-	-	-	-	3:count
+kapa_1	5	-	-	-	-	-	-	3:unit
+[meas_2]	6	-	-	2:rmeas	-	-	-	-
+3	7	-	-	-	-	-	-	6:count
+kapa_1	8	-	-	-	-	-	-	6:unit
+[span_1]	9	-	-	1:meas	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=d025a>
+#डाल-imperative पानी   कप   कप
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+pAnI_1	2	-	-	1:krvn	-	-	-	-
+[meas_1]	3	-	-	2:rmeas	-	-	-	-
+2	4	-	-	-	-	-	-	3:count
+kapa_1	5	-	-	-	-	-	-	3:unit
+[meas_2]	6	-	-	2:rmeas	-	-	-	-
+3	7	-	-	-	-	-	-	6:count
+kapa_1	8	-	-	-	-	-	-	6:unit
+[span_1]	9	-	-	1:meas	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: जोड़ना-habitual_pres (Index: 1)
+verb_tam
+relation
+conj
+Connector node found: [conj_1]
+option
+noun
+Noun/Ingredient/Modifier node found: मैगी मसाला
+rmeas
+rate_dynamic
+Connector node found: [rate_1]
+unit_every
+measure
+Measurement/Quantity node found: [meas_1]
+quantity
+unit
+quantity_value
+Measurement/Quantity node found: 1
+unit_value
+Measurement/Quantity node found: टुकड़ा
+unit_label
+measure
+Measurement/Quantity node found: [meas_2]
+quantity
+unit
+quantity_value
+Measurement/Quantity node found: 2
+unit_value
+Measurement/Quantity node found: चम्मच
+option
+noun
+Noun/Ingredient/Modifier node found: नमक
+card
+number
+Measurement/Quantity node found: 2
+
+Remaining connectors added to A_list: ['[rate_1]']
+
+===== Filtering Nodes into Final List =====
+conj
+measure
+measure
+rate_dynamic
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+rate_dynamic
+number
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: जोड़ना-habitual_pres (Index: 1, Dependency: 0:main)
+noun
+Noun node: मैगी मसाला (Dependency: -)
+conj
+Connector node: [conj_1] (Dependency: 1:k7t)
+measure
+[{'source': 'verb_tam_जोड़ना_habitual_pres_67527b', 'target': 'relation_कब_0_c4db9b', 'attributes': {}}, {'source': 'relation_कब_0_c4db9b', 'target': 'conj_1_b62f2a', 'attributes': {}}, {'source': 'conj_1_b62f2a', 'target': 'op_1_7036a8', 'attributes': {}}, {'source': 'conj_1_b62f2a', 'target': 'op_2_04f520', 'attributes': {}}, {'source': 'op_1_7036a8', 'target': 'noun_कब_मैगी मसाला_1_18fd5e', 'attributes': {}}, {'source': 'noun_कब_मैगी मसाला_1_18fd5e', 'target': 'rmeas__7dc352', 'attributes': {}}, {'source': 'rmeas__7dc352', 'target': 'rate_dynamic_1_03f5ef', 'attributes': {}}, {'source': 'rate_dynamic_1_03f5ef', 'target': 'unit_every_c0101b', 'attributes': {}}, {'source': 'rate_dynamic_1_03f5ef', 'target': 'unit_value_b6f128', 'attributes': {}}, {'source': 'unit_every_c0101b', 'target': 'measure_every_1_d7f4fd', 'attributes': {}}, {'source': 'measure_every_1_d7f4fd', 'target': 'count_every_92d5b2', 'attributes': {}}, {'source': 'measure_every_1_d7f4fd', 'target': 'unit_every_value_15c788', 'attributes': {}}, {'source': 'count_every_92d5b2', 'target': 'every_count_ad8f70', 'attributes': {}}, {'source': 'unit_every_value_15c788', 'target': 'unit_every_final_ae2400', 'attributes': {}}, {'source': 'unit_value_b6f128', 'target': 'measure_value_2_633f56', 'attributes': {}}, {'source': 'measure_value_2_633f56', 'target': 'count_value_bf7a19', 'attributes': {}}, {'source': 'measure_value_2_633f56', 'target': 'unit_value_value_fadde4', 'attributes': {}}, {'source': 'count_value_bf7a19', 'target': 'count_value_final_35ec4c', 'attributes': {}}, {'source': 'unit_value_value_fadde4', 'target': 'unit_value_final_2765bd', 'attributes': {}}, {'source': 'op_2_04f520', 'target': 'noun_कब_नमक_2_4e9d88', 'attributes': {}}, {'source': 'noun_कब_नमक_2_4e9d88', 'target': 'num__4adc5a', 'attributes': {}}, {'source': 'num__4adc5a', 'target': 'number_2_32e212', 'attributes': {}}]
+meas_1
+noun_कब_मैगी मसाला_1_18fd5e
+{'id': 'noun_कब_मैगी मसाला_1_18fd5e', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'मैगी मसाला'}}
+Measure node: [meas_1] (Dependency: 2:rmeas)
+quantity_value
+Other node: 1 (Dependency: -)
+unit_value
+Other node: टुकड़ा (Dependency: -)
+measure
+[{'source': 'verb_tam_जोड़ना_habitual_pres_67527b', 'target': 'relation_कब_0_c4db9b', 'attributes': {}}, {'source': 'relation_कब_0_c4db9b', 'target': 'conj_1_b62f2a', 'attributes': {}}, {'source': 'conj_1_b62f2a', 'target': 'op_1_7036a8', 'attributes': {}}, {'source': 'conj_1_b62f2a', 'target': 'op_2_04f520', 'attributes': {}}, {'source': 'op_1_7036a8', 'target': 'noun_कब_मैगी मसाला_1_18fd5e', 'attributes': {}}, {'source': 'noun_कब_मैगी मसाला_1_18fd5e', 'target': 'rmeas__7dc352', 'attributes': {}}, {'source': 'rmeas__7dc352', 'target': 'rate_dynamic_1_03f5ef', 'attributes': {}}, {'source': 'rate_dynamic_1_03f5ef', 'target': 'unit_every_c0101b', 'attributes': {}}, {'source': 'rate_dynamic_1_03f5ef', 'target': 'unit_value_b6f128', 'attributes': {}}, {'source': 'unit_every_c0101b', 'target': 'measure_every_1_d7f4fd', 'attributes': {}}, {'source': 'measure_every_1_d7f4fd', 'target': 'count_every_92d5b2', 'attributes': {}}, {'source': 'measure_every_1_d7f4fd', 'target': 'unit_every_value_15c788', 'attributes': {}}, {'source': 'count_every_92d5b2', 'target': 'every_count_ad8f70', 'attributes': {}}, {'source': 'unit_every_value_15c788', 'target': 'unit_every_final_ae2400', 'attributes': {}}, {'source': 'unit_value_b6f128', 'target': 'measure_value_2_633f56', 'attributes': {}}, {'source': 'measure_value_2_633f56', 'target': 'count_value_bf7a19', 'attributes': {}}, {'source': 'measure_value_2_633f56', 'target': 'unit_value_value_fadde4', 'attributes': {}}, {'source': 'count_value_bf7a19', 'target': 'count_value_final_35ec4c', 'attributes': {}}, {'source': 'unit_value_value_fadde4', 'target': 'unit_value_final_2765bd', 'attributes': {}}, {'source': 'op_2_04f520', 'target': 'noun_कब_नमक_2_4e9d88', 'attributes': {}}, {'source': 'noun_कब_नमक_2_4e9d88', 'target': 'num__4adc5a', 'attributes': {}}, {'source': 'num__4adc5a', 'target': 'number_2_32e212', 'attributes': {}}]
+meas_2
+noun_कब_मैगी मसाला_1_18fd5e
+{'id': 'noun_कब_मैगी मसाला_1_18fd5e', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'मैगी मसाला'}}
+Measure node: [meas_2] (Dependency: 2:rmeas)
+number
+[{'source': 'verb_tam_जोड़ना_habitual_pres_67527b', 'target': 'relation_कब_0_c4db9b', 'attributes': {}}, {'source': 'relation_कब_0_c4db9b', 'target': 'conj_1_b62f2a', 'attributes': {}}, {'source': 'conj_1_b62f2a', 'target': 'op_1_7036a8', 'attributes': {}}, {'source': 'conj_1_b62f2a', 'target': 'op_2_04f520', 'attributes': {}}, {'source': 'op_1_7036a8', 'target': 'noun_कब_मैगी मसाला_1_18fd5e', 'attributes': {}}, {'source': 'noun_कब_मैगी मसाला_1_18fd5e', 'target': 'rmeas__7dc352', 'attributes': {}}, {'source': 'rmeas__7dc352', 'target': 'rate_dynamic_1_03f5ef', 'attributes': {}}, {'source': 'rate_dynamic_1_03f5ef', 'target': 'unit_every_c0101b', 'attributes': {}}, {'source': 'rate_dynamic_1_03f5ef', 'target': 'unit_value_b6f128', 'attributes': {}}, {'source': 'unit_every_c0101b', 'target': 'measure_every_1_d7f4fd', 'attributes': {}}, {'source': 'measure_every_1_d7f4fd', 'target': 'count_every_92d5b2', 'attributes': {}}, {'source': 'measure_every_1_d7f4fd', 'target': 'unit_every_value_15c788', 'attributes': {}}, {'source': 'count_every_92d5b2', 'target': 'every_count_ad8f70', 'attributes': {}}, {'source': 'unit_every_value_15c788', 'target': 'unit_every_final_ae2400', 'attributes': {}}, {'source': 'unit_value_b6f128', 'target': 'measure_value_2_633f56', 'attributes': {}}, {'source': 'measure_value_2_633f56', 'target': 'count_value_bf7a19', 'attributes': {}}, {'source': 'measure_value_2_633f56', 'target': 'unit_value_value_fadde4', 'attributes': {}}, {'source': 'count_value_bf7a19', 'target': 'count_value_final_35ec4c', 'attributes': {}}, {'source': 'unit_value_value_fadde4', 'target': 'unit_value_final_2765bd', 'attributes': {}}, {'source': 'op_2_04f520', 'target': 'noun_कब_नमक_2_4e9d88', 'attributes': {}}, {'source': 'noun_कब_नमक_2_4e9d88', 'target': 'num__4adc5a', 'attributes': {}}, {'source': 'num__4adc5a', 'target': 'number_2_32e212', 'attributes': {}}]
+2
+noun_कब_नमक_2_4e9d88
+{'id': 'noun_कब_नमक_2_4e9d88', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'नमक'}}
+Measure node: 2 (Dependency: 10:card)
+unit_value
+Other node: चम्मच (Dependency: -)
+noun
+Noun node: नमक (Dependency: -)
+number
+10.2.133.167 - - [06/Mar/2025 13:46:47] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:47:14] "OPTIONS /remove-sentences HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:47:14] "POST /remove-sentences HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:50:06] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:50:06] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:50:06] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:50:06] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:50:06] "OPTIONS /graphtousr HTTP/1.1" 200 -
+[{'source': 'verb_tam_जोड़ना_habitual_pres_67527b', 'target': 'relation_कब_0_c4db9b', 'attributes': {}}, {'source': 'relation_कब_0_c4db9b', 'target': 'conj_1_b62f2a', 'attributes': {}}, {'source': 'conj_1_b62f2a', 'target': 'op_1_7036a8', 'attributes': {}}, {'source': 'conj_1_b62f2a', 'target': 'op_2_04f520', 'attributes': {}}, {'source': 'op_1_7036a8', 'target': 'noun_कब_मैगी मसाला_1_18fd5e', 'attributes': {}}, {'source': 'noun_कब_मैगी मसाला_1_18fd5e', 'target': 'rmeas__7dc352', 'attributes': {}}, {'source': 'rmeas__7dc352', 'target': 'rate_dynamic_1_03f5ef', 'attributes': {}}, {'source': 'rate_dynamic_1_03f5ef', 'target': 'unit_every_c0101b', 'attributes': {}}, {'source': 'rate_dynamic_1_03f5ef', 'target': 'unit_value_b6f128', 'attributes': {}}, {'source': 'unit_every_c0101b', 'target': 'measure_every_1_d7f4fd', 'attributes': {}}, {'source': 'measure_every_1_d7f4fd', 'target': 'count_every_92d5b2', 'attributes': {}}, {'source': 'measure_every_1_d7f4fd', 'target': 'unit_every_value_15c788', 'attributes': {}}, {'source': 'count_every_92d5b2', 'target': 'every_count_ad8f70', 'attributes': {}}, {'source': 'unit_every_value_15c788', 'target': 'unit_every_final_ae2400', 'attributes': {}}, {'source': 'unit_value_b6f128', 'target': 'measure_value_2_633f56', 'attributes': {}}, {'source': 'measure_value_2_633f56', 'target': 'count_value_bf7a19', 'attributes': {}}, {'source': 'measure_value_2_633f56', 'target': 'unit_value_value_fadde4', 'attributes': {}}, {'source': 'count_value_bf7a19', 'target': 'count_value_final_35ec4c', 'attributes': {}}, {'source': 'unit_value_value_fadde4', 'target': 'unit_value_final_2765bd', 'attributes': {}}, {'source': 'op_2_04f520', 'target': 'noun_कब_नमक_2_4e9d88', 'attributes': {}}, {'source': 'noun_कब_नमक_2_4e9d88', 'target': 'num__4adc5a', 'attributes': {}}, {'source': 'num__4adc5a', 'target': 'number_2_32e212', 'attributes': {}}]
+2
+noun_कब_नमक_2_4e9d88
+{'id': 'noun_कब_नमक_2_4e9d88', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'नमक'}}
+Measure node: 2 (Dependency: 10:card)
+rate_dynamic
+First level target: unit_every_c0101b
+Final target found: measure_every_1_d7f4fd
+Found measurement connection: rate_dynamic_1_03f5ef -> measure_every_1_d7f4fd
+-
+Final dependency for rmeas: 1:rmeas
+sr op1
+[conj_1]
+12
+[rate_1]
+unit_every
+qi every_count_ad8f70
+[{'source': 'count_every_92d5b2', 'target': 'every_count_ad8f70', 'attributes': {}}]
+count_every_92d5b2
+count
+[{'source': 'measure_every_1_d7f4fd', 'target': 'count_every_92d5b2', 'attributes': {}}]
+12
+[rate_1]
+unit_value
+sr op2
+[conj_1]
+['-', '3:op1', '-', '12:unit_every', '4:count', '4:unit', '12:unit_value', '-', '7:unit', '3:op2', '-', '-']
+TAM part: habitual_pres
+
+===== Final Filtered IDs =====
+['जोड़ना-wA_hE_1', 'मैगी मसाला', '[conj_1]', '[meas_1]', '1', 'टुकड़ा', '[meas_2]', '2', 'चम्मच', 'नमक', '2', '[rate_1]']
+cp ['jodZanA_1-wA_hE_1', 'mEgI masAlA_1', '[conj_1]', '[meas_1]', '1', 'tukadZA_1', '[meas_2]', '2', 'cammaca_1', 'namaka_1', '2', '[rate_1]']
+['0:main', '-', '1:k7t', '2:rmeas', '-', '-', '2:rmeas', '10:card', '-', '-', '10:card', '1:rmeas']
+['-', '3:op1', '-', '12:unit_every', '4:count', '4:unit', '12:unit_value', '-', '7:unit', '3:op2', '-', '-']
+<sent_id=fe62a>
+#जोड़ना-habitual_pres मैगी मसाला    टुकड़ा   चम्मच नमक  
+jodZanA_1-wA_hE_1	1	-	-	0:main	-	-	-	-
+mEgI masAlA_1	2	-	-	-	-	-	-	3:op1
+[conj_1]	3	-	-	1:k7t	-	-	-	-
+[meas_1]	4	-	-	2:rmeas	-	-	-	12:unit_every
+1	5	-	-	-	-	-	-	4:count
+tukadZA_1	6	-	-	-	-	-	-	4:unit
+[meas_2]	7	-	-	2:rmeas	-	-	-	12:unit_value
+2	8	-	-	10:card	-	-	-	-
+cammaca_1	9	-	-	-	-	-	-	7:unit
+namaka_1	10	-	-	-	-	-	-	3:op2
+2	11	-	-	10:card	-	-	-	-
+[rate_1]	12	-	-	1:rmeas	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=fe62a>
+#जोड़ना-habitual_pres मैगी मसाला    टुकड़ा   चम्मच नमक
+jodZanA_1-wA_hE_1	1	-	-	0:main	-	-	-	-
+mEgI masAlA_1	2	-	-	-	-	-	-	3:op1
+[conj_1]	3	-	-	1:k7t	-	-	-	-
+[meas_1]	4	-	-	2:rmeas	-	-	-	12:unit_every
+1	5	-	-	-	-	-	-	4:count
+tukadZA_1	6	-	-	-	-	-	-	4:unit
+[meas_2]	7	-	-	2:rmeas	-	-	-	12:unit_value
+2	8	-	-	10:card	-	-	-	-
+cammaca_1	9	-	-	-	-	-	-	7:unit
+namaka_1	10	-	-	-	-	-	-	3:op2
+2	11	-	-	10:card	-	-	-	-
+[rate_1]	12	-	-	1:rmeas	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: जोड़ना-imperative (Index: 1)
+verb_tam
+relation
+conj
+Connector node found: [conj_1]
+option
+noun
+Noun/Ingredient/Modifier node found: मैगी मसाला
+rmeas
+measure
+Measurement/Quantity node found: [meas_1]
+quantity
+quantity_value
+Measurement/Quantity node found: 4
+unit
+unit_value
+Measurement/Quantity node found: चम्मच
+option
+noun
+Noun/Ingredient/Modifier node found: नमक
+
+Remaining connectors added to A_list: ['[conj_1]']
+
+===== Filtering Nodes into Final List =====
+measure
+conj
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+measure
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: जोड़ना-imperative (Index: 1, Dependency: 0:main)
+noun
+Noun node: मैगी मसाला (Dependency: -)
+measure
+[{'source': 'verb_tam_जोड़ना_imperative_a38eef', 'target': 'relation_कब_0_12e8da', 'attributes': {}}, {'source': 'relation_कब_0_12e8da', 'target': 'conj_1_81a521', 'attributes': {}}, {'source': 'conj_1_81a521', 'target': 'op_1_3ee122', 'attributes': {}}, {'source': 'conj_1_81a521', 'target': 'op_2_bb1e04', 'attributes': {}}, {'source': 'op_1_3ee122', 'target': 'noun_कब_मैगी मसाला_1_3d7d95', 'attributes': {}}, {'source': 'noun_कब_मैगी मसाला_1_3d7d95', 'target': 'rmeas__9065f9', 'attributes': {}}, {'source': 'rmeas__9065f9', 'target': 'measure_conj_1_2e81b1', 'attributes': {}}, {'source': 'measure_conj_1_2e81b1', 'target': 'count_conj_5be030', 'attributes': {}}, {'source': 'measure_conj_1_2e81b1', 'target': 'unit_conj_f34a9c', 'attributes': {}}, {'source': 'count_conj_5be030', 'target': 'quantity_value_conj_a7bed3', 'attributes': {}}, {'source': 'unit_conj_f34a9c', 'target': 'unit_value_conj_e21544', 'attributes': {}}, {'source': 'op_2_bb1e04', 'target': 'noun_कब_नमक_2_8c27d2', 'attributes': {}}]
+meas_1
+noun_कब_मैगी मसाला_1_3d7d95
+{'id': 'noun_कब_मैगी मसाला_1_3d7d95', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'मैगी मसाला'}}
+Measure node: [meas_1] (Dependency: 2:rmeas)
+quantity_value
+Other node: 4 (Dependency: -)
+unit_value
+Other node: चम्मच (Dependency: -)
+noun
+Noun node: नमक (Dependency: -)
+conj
+Connector node: [conj_1] (Dependency: 1:k7t)
+sr op1
+[conj_1]
+2
+मैगी मसाला
+rmeas
+qi quantity_value_conj_a7bed3
+[{'source': 'count_conj_5be030', 'target': 'quantity_value_conj_a7bed3', 'attributes': {}}]
+count_conj_5be030
+quantity
+[{'source': 'measure_conj_1_2e81b1', 'target': 'count_conj_5be030', 'attributes': {}}]
+sr op2
+[conj_1]
+['-', '7:op1', '-', '3:count', '3:unit', '7:op2', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['जोड़ना-o_1', 'मैगी मसाला', '[meas_1]', '4', 'चम्मच', 'नमक', '[conj_1]']
+cp ['jodZanA_1-o_1', 'mEgI masAlA_1', '[meas_1]', '4', 'cammaca_1', 'namaka_1', '[conj_1]']
+['0:main', '-', '2:rmeas', '-', '-', '-', '1:k7t']
+['-', '7:op1', '-', '3:count', '3:unit', '7:op2', '-']
+10.2.133.167 - - [06/Mar/2025 13:50:06] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:50:50] "OPTIONS /remove-sentences HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:50:50] "POST /remove-sentences HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:53:46] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:53:46] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:53:46] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:53:47] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:53:47] "OPTIONS /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:53:47] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:53:52] "OPTIONS /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:53:52] "POST /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:53:55] "GET /get-sentences/fycCf6VKzi92JJ4GT7hV HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:55:17] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:55:17] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:55:17] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:55:18] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:55:18] "OPTIONS /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:55:18] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:55:20] "OPTIONS /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:55:20] "POST /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:55:21] "GET /get-sentences/fycCf6VKzi92JJ4GT7hV HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:56:15] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:56:15] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:56:16] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:56:16] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:56:16] "OPTIONS /graphtousr HTTP/1.1" 200 -
+<sent_id=6b6ba>
+#जोड़ना-imperative मैगी मसाला   चम्मच नमक 
+jodZanA_1-o_1	1	-	-	0:main	-	-	-	-
+mEgI masAlA_1	2	-	-	-	-	-	-	7:op1
+[meas_1]	3	-	-	2:rmeas	-	-	-	-
+4	4	-	-	-	-	-	-	3:count
+cammaca_1	5	-	-	-	-	-	-	3:unit
+namaka_1	6	-	-	-	-	-	-	7:op2
+[conj_1]	7	-	-	1:k7t	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=6b6ba>
+#जोड़ना-imperative मैगी मसाला   चम्मच नमक
+jodZanA_1-o_1	1	-	-	0:main	-	-	-	-
+mEgI masAlA_1	2	-	-	-	-	-	-	7:op1
+[meas_1]	3	-	-	2:rmeas	-	-	-	-
+4	4	-	-	-	-	-	-	3:count
+cammaca_1	5	-	-	-	-	-	-	3:unit
+namaka_1	6	-	-	-	-	-	-	7:op2
+[conj_1]	7	-	-	1:k7t	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: जोड़ना-imperative (Index: 1)
+verb_tam
+relation
+conj
+Connector node found: [conj_1]
+option
+noun
+Noun/Ingredient/Modifier node found: मसाला
+rmeas
+measure
+Measurement/Quantity node found: [meas_1]
+quantity
+quantity_value
+Measurement/Quantity node found: 4
+unit
+unit_value
+Measurement/Quantity node found: चम्मच
+option
+noun
+Noun/Ingredient/Modifier node found: नमक
+
+Remaining connectors added to A_list: ['[conj_1]']
+
+===== Filtering Nodes into Final List =====
+measure
+conj
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+measure
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: जोड़ना-imperative (Index: 1, Dependency: 0:main)
+noun
+Noun node: मसाला (Dependency: -)
+measure
+[{'source': 'verb_tam_जोड़ना_imperative_d27019', 'target': 'relation_कब_0_f15563', 'attributes': {}}, {'source': 'relation_कब_0_f15563', 'target': 'conj_1_b0c398', 'attributes': {}}, {'source': 'conj_1_b0c398', 'target': 'op_1_c2acef', 'attributes': {}}, {'source': 'conj_1_b0c398', 'target': 'op_2_164b6f', 'attributes': {}}, {'source': 'op_1_c2acef', 'target': 'noun_कब_मसाला_1_2f3750', 'attributes': {}}, {'source': 'noun_कब_मसाला_1_2f3750', 'target': 'rmeas__ecee1d', 'attributes': {}}, {'source': 'rmeas__ecee1d', 'target': 'measure_conj_1_c714a9', 'attributes': {}}, {'source': 'measure_conj_1_c714a9', 'target': 'count_conj_114f22', 'attributes': {}}, {'source': 'measure_conj_1_c714a9', 'target': 'unit_conj_002346', 'attributes': {}}, {'source': 'count_conj_114f22', 'target': 'quantity_value_conj_4af81c', 'attributes': {}}, {'source': 'unit_conj_002346', 'target': 'unit_value_conj_2d11fe', 'attributes': {}}, {'source': 'op_2_164b6f', 'target': 'noun_कब_नमक_2_869c9e', 'attributes': {}}]
+meas_1
+noun_कब_मसाला_1_2f3750
+{'id': 'noun_कब_मसाला_1_2f3750', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'मसाला'}}
+Measure node: [meas_1] (Dependency: 2:rmeas)
+quantity_value
+Other node: 4 (Dependency: -)
+unit_value
+Other node: चम्मच (Dependency: -)
+noun
+Noun node: नमक (Dependency: -)
+conj
+Connector node: [conj_1] (Dependency: 1:k7t)
+sr op1
+[conj_1]
+2
+मसाला
+rmeas
+qi quantity_value_conj_4af81c
+[{'source': 'count_conj_114f22', 'target': 'quantity_value_conj_4af81c', 'attributes': {}}]
+count_conj_114f22
+quantity
+[{'source': 'measure_conj_1_c714a9', 'target': 'count_conj_114f22', 'attributes': {}}]
+sr op2
+[conj_1]
+['-', '7:op1', '-', '3:count', '3:unit', '7:op2', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['जोड़ना-o_1', 'मसाला', '[meas_1]', '4', 'चम्मच', 'नमक', '[conj_1]']
+cp ['jodZanA_1-o_1', 'masAlA_1', '[meas_1]', '4', 'cammaca_1', 'namaka_1', '[conj_1]']
+['0:main', '-', '2:rmeas', '-', '-', '-', '1:k7t']
+['-', '7:op1', '-', '3:count', '3:unit', '7:op2', '-']
+<sent_id=3741a>
+#जोड़ना-imperative मसाला   चम्मच नमक 
+jodZanA_1-o_1	1	-	-	0:main	-	-	-	-
+masAlA_1	2	-	-	-	-	-	-	7:op1
+[meas_1]	3	-	-	2:rmeas	-	-	-	-
+4	4	-	-	-	-	-	-	3:count
+cammaca_1	5	-	-	-	-	-	-	3:unit
+namaka_1	6	-	-	-	-	-	-	7:op2
+[conj_1]	7	-	-	1:k7t	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=3741a>
+#जोड़ना-imperative मसाला   चम्मच नमक
+jodZanA_1-o_1	1	-	-	0:main	-	-	-	-
+masAlA_1	2	-	-	-	-	-	-	7:op1
+[meas_1]	3	-	-	2:rmeas	-	-	-	-
+4	4	-	-	-	-	-	-	3:count
+cammaca_1	5	-	-	-	-	-	-	3:unit
+namaka_1	6	-	-	-	-	-	-	7:op2
+[conj_1]	7	-	-	1:k7t	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: तलना-imperative (Index: 1)
+verb_tam
+relation
+noun
+Noun/Ingredient/Modifier node found: मिर्च
+mod
+modifier
+Noun/Ingredient/Modifier node found: हरी
+
+===== Filtering Nodes into Final List =====
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+modifier
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: तलना-imperative (Index: 1, Dependency: 0:main)
+noun
+कौन
+rel
+Noun node: मिर्च (Dependency: 1:rel)
+modifier
+Modifier node: हरी (Dependency: 2:mod)
+sr कौन
+तलना-imperative
+['-', '-', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['तलना-o_1', 'मिर्च', 'हरी']
+cp ['walanA_1-o_1', 'mirca_1', 'harI_1']
+['0:main', '1:rel', '2:mod']
+['-', '-', '-']
+<sent_id=fa51a>
+#तलना-imperative मिर्च हरी
+walanA_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	1:rel	-	-	-	-
+harI_1	3	-	-	2:mod	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=fa51a>
+#तलना-imperative मिर्च हरी
+walanA_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	1:rel	-	-	-	-
+harI_1	3	-	-	2:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: डाल-imperative (Index: 1)
+verb_tam
+relation
+noun
+Noun/Ingredient/Modifier node found: तेल
+span_dynamic
+Connector node found: [span_1]
+rmeas
+start
+end
+rmeas
+measure
+Measurement/Quantity node found: [meas_1]
+quantity
+quantity_value
+Measurement/Quantity node found: 2
+unit
+unit_value
+Measurement/Quantity node found: चम्मच
+rmeas
+measure
+Measurement/Quantity node found: [meas_2]
+quantity
+quantity_value
+Measurement/Quantity node found: 3
+unit
+unit_value
+Measurement/Quantity node found: चम्मच
+
+Remaining connectors added to A_list: ['[span_1]']
+
+===== Filtering Nodes into Final List =====
+measure
+measure
+span_dynamic
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+span_dynamic
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: डाल-imperative (Index: 1, Dependency: 0:main)
+noun
+कहां
+k2p
+Noun node: तेल (Dependency: 1:k2p)
+measure
+10.2.133.167 - - [06/Mar/2025 13:56:16] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:56:16] "GET /get-sentences/fycCf6VKzi92JJ4GT7hV HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:56:19] "OPTIONS /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:56:19] "POST /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:56:21] "GET /get-sentences/fycCf6VKzi92JJ4GT7hV HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:57:31] "GET /usrs?recipe_id=fycCf6VKzi92JJ4GT7hV HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:57:37] "GET /get-sentences/fycCf6VKzi92JJ4GT7hV HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:57:39] "GET /usrs?recipe_id=fycCf6VKzi92JJ4GT7hV HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:57:50] "GET /get-sentences/fycCf6VKzi92JJ4GT7hV HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:58:15] "GET /usrs?recipe_id=fycCf6VKzi92JJ4GT7hV HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 13:58:50] "GET /get-sentences/fycCf6VKzi92JJ4GT7hV HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:23:47] "GET /get-sentences/fycCf6VKzi92JJ4GT7hV HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:23:50] "GET /usrs?recipe_id=fycCf6VKzi92JJ4GT7hV HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:23:56] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:24:11] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:24:11] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:24:11] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:24:11] "GET /recipe/DhthSuG0eFPmeh1DX9zN HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:24:26] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:24:26] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:24:26] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:24:26] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:24:26] "OPTIONS /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:24:26] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:24:28] "OPTIONS /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:24:28] "POST /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:24:30] "GET /get-sentences/DhthSuG0eFPmeh1DX9zN HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:24:36] "GET /usrs?recipe_id=DhthSuG0eFPmeh1DX9zN HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:25:14] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:26:08] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:26:08] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:26:08] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:26:08] "GET /recipe/8f5Dcm7Y3UgZdY1avE6a HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:26:17] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:26:17] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:26:17] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 14:26:17] "GET /recipe/dz5pR7uKwjLT3Zdgy9PI HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:32:15] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:32:32] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:32:32] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:32:32] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:32:32] "GET /recipe/sYWrObyahfZtsbj3xBKT HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:34:42] "GET /recipes HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:34:51] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:34:51] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:34:51] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:34:51] "GET /recipe/FM7XfpBYR9kUhHoS2tol HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:38:06] "OPTIONS /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:38:06] "POST /save-selection HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:38:06] "GET /get-options HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:38:06] "GET /recipe/Rsniu9ll56bnOjDRWXuh HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:39:42] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:39:42] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:39:42] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:39:42] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:39:42] "OPTIONS /graphtousr HTTP/1.1" 200 -
+[{'source': 'verb_tam_डाल_imperative_67f61d', 'target': 'relation_कहां_0_21477b', 'attributes': {}}, {'source': 'relation_कहां_0_21477b', 'target': 'noun_कहां_तेल_bdf634', 'attributes': {}}, {'source': 'noun_कहां_तेल_bdf634', 'target': 'rmeas__ffcf2e', 'attributes': {}}, {'source': 'span_dynamic_1_dfbc1f', 'target': 'start_a9d568', 'attributes': {}}, {'source': 'span_dynamic_1_dfbc1f', 'target': 'end_cb5855', 'attributes': {}}, {'source': 'rmeas__ffcf2e', 'target': 'span_dynamic_1_dfbc1f', 'attributes': {}}, {'source': 'start_a9d568', 'target': 'rmeas__b2a074', 'attributes': {}}, {'source': 'end_cb5855', 'target': 'rmeas__10df6b', 'attributes': {}}, {'source': 'rmeas__b2a074', 'target': 'measure_start_1_b387fb', 'attributes': {}}, {'source': 'measure_start_1_b387fb', 'target': 'count_start_a23d86', 'attributes': {}}, {'source': 'measure_start_1_b387fb', 'target': 'unit_start_7ffc65', 'attributes': {}}, {'source': 'count_start_a23d86', 'target': 'quantity_value_start_52d119', 'attributes': {}}, {'source': 'unit_start_7ffc65', 'target': 'unit_value_start_b0a267', 'attributes': {}}, {'source': 'rmeas__10df6b', 'target': 'measure_end_2_1e1e2f', 'attributes': {}}, {'source': 'measure_end_2_1e1e2f', 'target': 'count_end_2e4367', 'attributes': {}}, {'source': 'measure_end_2_1e1e2f', 'target': 'unit_end_02964b', 'attributes': {}}, {'source': 'count_end_2e4367', 'target': 'quantity_value_end_ba7b28', 'attributes': {}}, {'source': 'unit_end_02964b', 'target': 'unit_value_end_3bd1d9', 'attributes': {}}]
+meas_1
+noun_कहां_तेल_bdf634
+{'id': 'noun_कहां_तेल_bdf634', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'तेल'}}
+Measure node: [meas_1] (Dependency: 2:rmeas)
+quantity_value
+Other node: 2 (Dependency: -)
+unit_value
+Other node: चम्मच (Dependency: -)
+measure
+[{'source': 'verb_tam_डाल_imperative_67f61d', 'target': 'relation_कहां_0_21477b', 'attributes': {}}, {'source': 'relation_कहां_0_21477b', 'target': 'noun_कहां_तेल_bdf634', 'attributes': {}}, {'source': 'noun_कहां_तेल_bdf634', 'target': 'rmeas__ffcf2e', 'attributes': {}}, {'source': 'span_dynamic_1_dfbc1f', 'target': 'start_a9d568', 'attributes': {}}, {'source': 'span_dynamic_1_dfbc1f', 'target': 'end_cb5855', 'attributes': {}}, {'source': 'rmeas__ffcf2e', 'target': 'span_dynamic_1_dfbc1f', 'attributes': {}}, {'source': 'start_a9d568', 'target': 'rmeas__b2a074', 'attributes': {}}, {'source': 'end_cb5855', 'target': 'rmeas__10df6b', 'attributes': {}}, {'source': 'rmeas__b2a074', 'target': 'measure_start_1_b387fb', 'attributes': {}}, {'source': 'measure_start_1_b387fb', 'target': 'count_start_a23d86', 'attributes': {}}, {'source': 'measure_start_1_b387fb', 'target': 'unit_start_7ffc65', 'attributes': {}}, {'source': 'count_start_a23d86', 'target': 'quantity_value_start_52d119', 'attributes': {}}, {'source': 'unit_start_7ffc65', 'target': 'unit_value_start_b0a267', 'attributes': {}}, {'source': 'rmeas__10df6b', 'target': 'measure_end_2_1e1e2f', 'attributes': {}}, {'source': 'measure_end_2_1e1e2f', 'target': 'count_end_2e4367', 'attributes': {}}, {'source': 'measure_end_2_1e1e2f', 'target': 'unit_end_02964b', 'attributes': {}}, {'source': 'count_end_2e4367', 'target': 'quantity_value_end_ba7b28', 'attributes': {}}, {'source': 'unit_end_02964b', 'target': 'unit_value_end_3bd1d9', 'attributes': {}}]
+meas_2
+noun_कहां_तेल_bdf634
+{'id': 'noun_कहां_तेल_bdf634', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'तेल'}}
+Measure node: [meas_2] (Dependency: 2:rmeas)
+quantity_value
+Other node: 3 (Dependency: -)
+unit_value
+Other node: चम्मच (Dependency: -)
+span_dynamic
+First level target: start_a9d568
+Final target found: rmeas__b2a074
+No measurement or specific relation found, defaulting to 'mod'
+-
+Final dependency for rmeas: 1:meas
+sr कहां
+डाल-imperative
+None
+start
+rmeas
+qi quantity_value_start_52d119
+[{'source': 'count_start_a23d86', 'target': 'quantity_value_start_52d119', 'attributes': {}}]
+count_start_a23d86
+quantity
+[{'source': 'measure_start_1_b387fb', 'target': 'count_start_a23d86', 'attributes': {}}]
+None
+end
+rmeas
+qi quantity_value_end_ba7b28
+[{'source': 'count_end_2e4367', 'target': 'quantity_value_end_ba7b28', 'attributes': {}}]
+count_end_2e4367
+quantity
+[{'source': 'measure_end_2_1e1e2f', 'target': 'count_end_2e4367', 'attributes': {}}]
+['-', '-', '-', '3:count', '3:unit', '-', '6:count', '6:unit', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['डाल-o_1', 'तेल', '[meas_1]', '2', 'चम्मच', '[meas_2]', '3', 'चम्मच', '[span_1]']
+cp ['dAla_1-o_1', 'wela_1', '[meas_1]', '2', 'cammaca_1', '[meas_2]', '3', 'cammaca_1', '[span_1]']
+['0:main', '1:k2p', '2:rmeas', '-', '-', '2:rmeas', '-', '-', '1:meas']
+['-', '-', '-', '3:count', '3:unit', '-', '6:count', '6:unit', '-']
+<sent_id=b5b7a>
+#डाल-imperative तेल   चम्मच   चम्मच 
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+wela_1	2	-	-	1:k2p	-	-	-	-
+[meas_1]	3	-	-	2:rmeas	-	-	-	-
+2	4	-	-	-	-	-	-	3:count
+cammaca_1	5	-	-	-	-	-	-	3:unit
+[meas_2]	6	-	-	2:rmeas	-	-	-	-
+3	7	-	-	-	-	-	-	6:count
+cammaca_1	8	-	-	-	-	-	-	6:unit
+[span_1]	9	-	-	1:meas	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=b5b7a>
+#डाल-imperative तेल   चम्मच   चम्मच
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+wela_1	2	-	-	1:k2p	-	-	-	-
+[meas_1]	3	-	-	2:rmeas	-	-	-	-
+2	4	-	-	-	-	-	-	3:count
+cammaca_1	5	-	-	-	-	-	-	3:unit
+[meas_2]	6	-	-	2:rmeas	-	-	-	-
+3	7	-	-	-	-	-	-	6:count
+cammaca_1	8	-	-	-	-	-	-	6:unit
+[span_1]	9	-	-	1:meas	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: बना-imperative (Index: 1)
+verb_tam
+relation
+noun
+Noun/Ingredient/Modifier node found: मिर्च
+mod
+modifier
+Noun/Ingredient/Modifier node found: हरी
+
+===== Filtering Nodes into Final List =====
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+modifier
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: बना-imperative (Index: 1, Dependency: 0:main)
+noun
+क्या-कर्ता
+k1
+Noun node: मिर्च (Dependency: 1:k1)
+modifier
+Modifier node: हरी (Dependency: 2:mod)
+sr क्या-कर्ता
+बना-imperative
+['-', '-', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['बना-o_1', 'मिर्च', 'हरी']
+cp ['banA_1-o_1', 'mirca_1', 'harI_1']
+['0:main', '1:k1', '2:mod']
+['-', '-', '-']
+<sent_id=143fa>
+#बना-imperative मिर्च हरी
+banA_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	1:k1	-	-	-	-
+harI_1	3	-	-	2:mod	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=143fa>
+#बना-imperative मिर्च हरी
+banA_1-o_1	1	-	-	0:main	-	-	-	-
+mirca_1	2	-	-	1:k1	-	-	-	-
+harI_1	3	-	-	2:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: डाल-imperative (Index: 1)
+verb_tam
+relation
+conj
+Connector node found: [conj_1]
+option
+noun
+Noun/Ingredient/Modifier node found: पैन
+mod
+modifier
+Noun/Ingredient/Modifier node found: ठंडा
+option
+noun
+Noun/Ingredient/Modifier node found: तेल
+rmeas
+span_dynamic
+Connector node found: [span_1]
+start
+end
+rmeas
+measure
+Measurement/Quantity node found: [meas_1]
+quantity
+quantity_value
+Measurement/Quantity node found: 2
+unit
+unit_value
+Measurement/Quantity node found: चम्मच
+rmeas
+measure
+Measurement/Quantity node found: [meas_2]
+quantity
+quantity_value
+Measurement/Quantity node found: 4
+unit
+unit_value
+Measurement/Quantity node found: चम्मच
+10.2.133.167 - - [06/Mar/2025 15:39:42] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:40:01] "OPTIONS /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:40:01] "POST /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:42:30] "OPTIONS /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:42:30] "POST /reset-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:42:30] "OPTIONS /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:42:30] "POST /create-graph HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:42:30] "OPTIONS /graphtousr HTTP/1.1" 200 -
+
+Remaining connectors added to A_list: ['[span_1]']
+
+===== Filtering Nodes into Final List =====
+conj
+measure
+measure
+span_dynamic
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+modifier
+span_dynamic
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: डाल-imperative (Index: 1, Dependency: 0:main)
+noun
+Noun node: पैन (Dependency: -)
+modifier
+Modifier node: ठंडा (Dependency: 2:mod)
+noun
+Noun node: तेल (Dependency: -)
+conj
+Connector node: [conj_1] (Dependency: 1:k7t)
+measure
+[{'source': 'verb_tam_डाल_imperative_6e14ec', 'target': 'relation_कब_0_90b5e1', 'attributes': {}}, {'source': 'relation_कब_0_90b5e1', 'target': 'conj_1_ab19ed', 'attributes': {}}, {'source': 'conj_1_ab19ed', 'target': 'op_1_a6c821', 'attributes': {}}, {'source': 'conj_1_ab19ed', 'target': 'op_2_c0b319', 'attributes': {}}, {'source': 'op_1_a6c821', 'target': 'noun_कब_पैन_1_eb9a76', 'attributes': {}}, {'source': 'noun_कब_पैन_1_eb9a76', 'target': 'mod_eb59e7', 'attributes': {}}, {'source': 'mod_eb59e7', 'target': 'modifier_ठंडा_b0a1fe', 'attributes': {}}, {'source': 'op_2_c0b319', 'target': 'noun_कब_तेल_2_8fc2d8', 'attributes': {}}, {'source': 'noun_कब_तेल_2_8fc2d8', 'target': 'rmeas__96154e', 'attributes': {}}, {'source': 'rmeas__96154e', 'target': 'span_dynamic_1_0451ef', 'attributes': {}}, {'source': 'span_dynamic_1_0451ef', 'target': 'start_3179f8', 'attributes': {}}, {'source': 'span_dynamic_1_0451ef', 'target': 'end_b4fb4c', 'attributes': {}}, {'source': 'start_3179f8', 'target': 'rmeas__8700c0', 'attributes': {}}, {'source': 'end_b4fb4c', 'target': 'rmeas__27cd9e', 'attributes': {}}, {'source': 'rmeas__8700c0', 'target': 'measure_start_1_ef98c1', 'attributes': {}}, {'source': 'measure_start_1_ef98c1', 'target': 'count_start_71d99b', 'attributes': {}}, {'source': 'measure_start_1_ef98c1', 'target': 'unit_start_a4e592', 'attributes': {}}, {'source': 'count_start_71d99b', 'target': 'quantity_value_start_93429b', 'attributes': {}}, {'source': 'unit_start_a4e592', 'target': 'unit_value_start_198aff', 'attributes': {}}, {'source': 'rmeas__27cd9e', 'target': 'measure_end_2_7b47ed', 'attributes': {}}, {'source': 'measure_end_2_7b47ed', 'target': 'count_end_5945fa', 'attributes': {}}, {'source': 'measure_end_2_7b47ed', 'target': 'unit_end_816098', 'attributes': {}}, {'source': 'count_end_5945fa', 'target': 'quantity_value_end_87fac4', 'attributes': {}}, {'source': 'unit_end_816098', 'target': 'unit_value_end_7a48ea', 'attributes': {}}]
+meas_1
+noun_कब_तेल_2_8fc2d8
+{'id': 'noun_कब_तेल_2_8fc2d8', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'तेल'}}
+Measure node: [meas_1] (Dependency: 4:rmeas)
+quantity_value
+Other node: 2 (Dependency: -)
+unit_value
+Other node: चम्मच (Dependency: -)
+measure
+[{'source': 'verb_tam_डाल_imperative_6e14ec', 'target': 'relation_कब_0_90b5e1', 'attributes': {}}, {'source': 'relation_कब_0_90b5e1', 'target': 'conj_1_ab19ed', 'attributes': {}}, {'source': 'conj_1_ab19ed', 'target': 'op_1_a6c821', 'attributes': {}}, {'source': 'conj_1_ab19ed', 'target': 'op_2_c0b319', 'attributes': {}}, {'source': 'op_1_a6c821', 'target': 'noun_कब_पैन_1_eb9a76', 'attributes': {}}, {'source': 'noun_कब_पैन_1_eb9a76', 'target': 'mod_eb59e7', 'attributes': {}}, {'source': 'mod_eb59e7', 'target': 'modifier_ठंडा_b0a1fe', 'attributes': {}}, {'source': 'op_2_c0b319', 'target': 'noun_कब_तेल_2_8fc2d8', 'attributes': {}}, {'source': 'noun_कब_तेल_2_8fc2d8', 'target': 'rmeas__96154e', 'attributes': {}}, {'source': 'rmeas__96154e', 'target': 'span_dynamic_1_0451ef', 'attributes': {}}, {'source': 'span_dynamic_1_0451ef', 'target': 'start_3179f8', 'attributes': {}}, {'source': 'span_dynamic_1_0451ef', 'target': 'end_b4fb4c', 'attributes': {}}, {'source': 'start_3179f8', 'target': 'rmeas__8700c0', 'attributes': {}}, {'source': 'end_b4fb4c', 'target': 'rmeas__27cd9e', 'attributes': {}}, {'source': 'rmeas__8700c0', 'target': 'measure_start_1_ef98c1', 'attributes': {}}, {'source': 'measure_start_1_ef98c1', 'target': 'count_start_71d99b', 'attributes': {}}, {'source': 'measure_start_1_ef98c1', 'target': 'unit_start_a4e592', 'attributes': {}}, {'source': 'count_start_71d99b', 'target': 'quantity_value_start_93429b', 'attributes': {}}, {'source': 'unit_start_a4e592', 'target': 'unit_value_start_198aff', 'attributes': {}}, {'source': 'rmeas__27cd9e', 'target': 'measure_end_2_7b47ed', 'attributes': {}}, {'source': 'measure_end_2_7b47ed', 'target': 'count_end_5945fa', 'attributes': {}}, {'source': 'measure_end_2_7b47ed', 'target': 'unit_end_816098', 'attributes': {}}, {'source': 'count_end_5945fa', 'target': 'quantity_value_end_87fac4', 'attributes': {}}, {'source': 'unit_end_816098', 'target': 'unit_value_end_7a48ea', 'attributes': {}}]
+meas_2
+noun_कब_तेल_2_8fc2d8
+{'id': 'noun_कब_तेल_2_8fc2d8', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'तेल'}}
+Measure node: [meas_2] (Dependency: 4:rmeas)
+quantity_value
+Other node: 4 (Dependency: -)
+unit_value
+Other node: चम्मच (Dependency: -)
+span_dynamic
+First level target: start_3179f8
+Final target found: rmeas__8700c0
+No measurement or specific relation found, defaulting to 'mod'
+-
+Final dependency for rmeas: 1:meas
+sr op1
+[conj_1]
+sr op2
+[conj_1]
+None
+start
+rmeas
+qi quantity_value_start_93429b
+[{'source': 'count_start_71d99b', 'target': 'quantity_value_start_93429b', 'attributes': {}}]
+count_start_71d99b
+quantity
+[{'source': 'measure_start_1_ef98c1', 'target': 'count_start_71d99b', 'attributes': {}}]
+None
+end
+rmeas
+qi quantity_value_end_87fac4
+[{'source': 'count_end_5945fa', 'target': 'quantity_value_end_87fac4', 'attributes': {}}]
+count_end_5945fa
+quantity
+[{'source': 'measure_end_2_7b47ed', 'target': 'count_end_5945fa', 'attributes': {}}]
+['-', '5:op1', '-', '5:op2', '-', '-', '6:count', '6:unit', '-', '9:count', '9:unit', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['डाल-o_1', 'पैन', 'ठंडा', 'तेल', '[conj_1]', '[meas_1]', '2', 'चम्मच', '[meas_2]', '4', 'चम्मच', '[span_1]']
+cp ['dAla_1-o_1', 'pEna_1', 'TaMdA_1', 'wela_1', '[conj_1]', '[meas_1]', '2', 'cammaca_1', '[meas_2]', '4', 'cammaca_1', '[span_1]']
+['0:main', '-', '2:mod', '-', '1:k7t', '4:rmeas', '-', '-', '4:rmeas', '-', '-', '1:meas']
+['-', '5:op1', '-', '5:op2', '-', '-', '6:count', '6:unit', '-', '9:count', '9:unit', '-']
+<sent_id=7b48a>
+#डाल-imperative पैन ठंडा तेल    चम्मच   चम्मच 
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+pEna_1	2	-	-	-	-	-	-	5:op1
+TaMdA_1	3	-	-	2:mod	-	-	-	-
+wela_1	4	-	-	-	-	-	-	5:op2
+[conj_1]	5	-	-	1:k7t	-	-	-	-
+[meas_1]	6	-	-	4:rmeas	-	-	-	-
+2	7	-	-	-	-	-	-	6:count
+cammaca_1	8	-	-	-	-	-	-	6:unit
+[meas_2]	9	-	-	4:rmeas	-	-	-	-
+4	10	-	-	-	-	-	-	9:count
+cammaca_1	11	-	-	-	-	-	-	9:unit
+[span_1]	12	-	-	1:meas	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=7b48a>
+#डाल-imperative पैन ठंडा तेल    चम्मच   चम्मच
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+pEna_1	2	-	-	-	-	-	-	5:op1
+TaMdA_1	3	-	-	2:mod	-	-	-	-
+wela_1	4	-	-	-	-	-	-	5:op2
+[conj_1]	5	-	-	1:k7t	-	-	-	-
+[meas_1]	6	-	-	4:rmeas	-	-	-	-
+2	7	-	-	-	-	-	-	6:count
+cammaca_1	8	-	-	-	-	-	-	6:unit
+[meas_2]	9	-	-	4:rmeas	-	-	-	-
+4	10	-	-	-	-	-	-	9:count
+cammaca_1	11	-	-	-	-	-	-	9:unit
+[span_1]	12	-	-	1:meas	-	-	-	-
+%affirmative
+</sent_id>
+
+
+
+===== Processing Nodes =====
+Verb+TAM node found: डाल-imperative (Index: 1)
+verb_tam
+relation
+noun
+Noun/Ingredient/Modifier node found: पैन
+relation
+conj
+Connector node found: [conj_1]
+option
+noun
+Noun/Ingredient/Modifier node found: मिर्च
+mod
+modifier
+Noun/Ingredient/Modifier node found: हरी
+card
+number
+Measurement/Quantity node found: 2
+option
+noun
+Noun/Ingredient/Modifier node found: तेल
+mod
+modifier
+Noun/Ingredient/Modifier node found: ताजा
+intf
+intensifier
+Measurement/Quantity node found: बहुत
+rmeas
+span_dynamic
+Connector node found: [span_1]
+start
+end
+rmeas
+measure
+Measurement/Quantity node found: [meas_1]
+quantity
+quantity_value
+Measurement/Quantity node found: 2
+unit
+unit_value
+Measurement/Quantity node found: चम्मच
+rmeas
+measure
+Measurement/Quantity node found: [meas_2]
+quantity
+quantity_value
+Measurement/Quantity node found: 4
+unit
+unit_value
+Measurement/Quantity node found: चम्मच
+
+Remaining connectors added to A_list: ['[span_1]']
+
+===== Filtering Nodes into Final List =====
+conj
+measure
+measure
+span_dynamic
+
+===== Relation to Dependency Mapping =====
+{'क्या-कर्ता': 'k1', 'क्या-कर्म': 'k2', 'कौन-कर्ता': 'k1', 'कौन-कर्म': 'k2', 'कब': 'k7t', 'कहां': 'k2p', 'कैसे': 'krvn', 'कब तक': 'k7t', 'कहां पर': 'k7p', 'कहां से': 'k5', 'किस लिए': 'rt', 'किस में': 'k7p', 'किस के कारण': 'rh', 'किस के समान': 'ru', 'किसके तुलना में': 'rv', 'modifier': 'mod', 'quantity_value': 'quant'}
+
+===== Processing Edges =====
+modifier
+number
+modifier
+span_dynamic
+
+===== Generating Dependencies =====
+verb_tam
+Verb+TAM node: डाल-imperative (Index: 1, Dependency: 0:main)
+noun
+कहां
+k2p
+Noun node: पैन (Dependency: 1:k2p)
+noun
+Noun node: मिर्च (Dependency: -)
+modifier
+Modifier node: हरी (Dependency: 3:mod)
+quantity_value
+Other node: 2 (Dependency: -)
+noun
+Noun node: तेल (Dependency: -)
+modifier
+Modifier node: ताजा (Dependency: 6:mod)
+intensifier
+intensidier node:{node_label} (Dependency: -)
+conj
+Connector node: [conj_1] (Dependency: 1:k7t)
+measure
+[{'source': 'verb_tam_डाल_imperative_3857c8', 'target': 'relation_कहां_0_1a01a2', 'attributes': {}}, {'source': 'verb_tam_डाल_imperative_3857c8', 'target': 'relation_कब_1_f35242', 'attributes': {}}, {'source': 'relation_कहां_0_1a01a2', 'target': 'noun_कहां_पैन_ab2957', 'attributes': {}}, {'source': 'relation_कब_1_f35242', 'target': 'conj_1_f1a541', 'attributes': {}}, {'source': 'conj_1_f1a541', 'target': 'op_1_3bbf62', 'attributes': {}}, {'source': 'conj_1_f1a541', 'target': 'op_2_b6b843', 'attributes': {}}, {'source': 'op_1_3bbf62', 'target': 'noun_कब_मिर्च_1_1c23f6', 'attributes': {}}, {'source': 'noun_कब_मिर्च_1_1c23f6', 'target': 'mod_f45693', 'attributes': {}}, {'source': 'noun_कब_मिर्च_1_1c23f6', 'target': 'num__ca94fb', 'attributes': {}}, {'source': 'mod_f45693', 'target': 'modifier_हरी_219bb4', 'attributes': {}}, {'source': 'num__ca94fb', 'target': 'number_2_4e07e5', 'attributes': {}}, {'source': 'op_2_b6b843', 'target': 'noun_कब_तेल_2_eb7cf7', 'attributes': {}}, {'source': 'noun_कब_तेल_2_eb7cf7', 'target': 'mod_94de99', 'attributes': {}}, {'source': 'noun_कब_तेल_2_eb7cf7', 'target': 'rmeas__cb1cb3', 'attributes': {}}, {'source': 'mod_94de99', 'target': 'modifier_ताजा_07af5a', 'attributes': {}}, {'source': 'modifier_ताजा_07af5a', 'target': 'intf_c7ca67', 'attributes': {}}, {'source': 'intf_c7ca67', 'target': 'intensifier_बहुत_6f0646', 'attributes': {}}, {'source': 'rmeas__cb1cb3', 'target': 'span_dynamic_1_8945c1', 'attributes': {}}, {'source': 'span_dynamic_1_8945c1', 'target': 'start_327385', 'attributes': {}}, {'source': 'span_dynamic_1_8945c1', 'target': 'end_26c7fb', 'attributes': {}}, {'source': 'start_327385', 'target': 'rmeas__68cecc', 'attributes': {}}, {'source': 'end_26c7fb', 'target': 'rmeas__6c10a7', 'attributes': {}}, {'source': 'rmeas__68cecc', 'target': 'measure_start_1_0066d7', 'attributes': {}}, {'source': 'measure_start_1_0066d7', 'target': 'count_start_2df7cf', 'attributes': {}}, {'source': 'measure_start_1_0066d7', 'target': 'unit_start_d9021e', 'attributes': {}}, {'source': 'count_start_2df7cf', 'target': 'quantity_value_start_495507', 'attributes': {}}, {'source': 'unit_start_d9021e', 'target': 'unit_value_start_4e6596', 'attributes': {}}, {'source': 'rmeas__6c10a7', 'target': 'measure_end_2_72b495', 'attributes': {}}, {'source': 'measure_end_2_72b495', 'target': 'count_end_e88d6f', 'attributes': {}}, {'source': 'measure_end_2_72b495', 'target': 'unit_end_b9b188', 'attributes': {}}, {'source': 'count_end_e88d6f', 'target': 'quantity_value_end_d04753', 'attributes': {}}, {'source': 'unit_end_b9b188', 'target': 'unit_value_end_42678b', 'attributes': {}}]
+meas_1
+noun_कब_तेल_2_eb7cf7
+{'id': 'noun_कब_तेल_2_eb7cf7', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'तेल'}}
+Measure node: [meas_1] (Dependency: 6:rmeas)
+quantity_value
+Other node: 2 (Dependency: -)
+unit_value
+Other node: चम्मच (Dependency: -)
+measure
+[{'source': 'verb_tam_डाल_imperative_3857c8', 'target': 'relation_कहां_0_1a01a2', 'attributes': {}}, {'source': 'verb_tam_डाल_imperative_3857c8', 'target': 'relation_कब_1_f35242', 'attributes': {}}, {'source': 'relation_कहां_0_1a01a2', 'target': 'noun_कहां_पैन_ab2957', 'attributes': {}}, {'source': 'relation_कब_1_f35242', 'target': 'conj_1_f1a541', 'attributes': {}}, {'source': 'conj_1_f1a541', 'target': 'op_1_3bbf62', 'attributes': {}}, {'source': 'conj_1_f1a541', 'target': 'op_2_b6b843', 'attributes': {}}, {'source': 'op_1_3bbf62', 'target': 'noun_कब_मिर्च_1_1c23f6', 'attributes': {}}, {'source': 'noun_कब_मिर्च_1_1c23f6', 'target': 'mod_f45693', 'attributes': {}}, {'source': 'noun_कब_मिर्च_1_1c23f6', 'target': 'num__ca94fb', 'attributes': {}}, {'source': 'mod_f45693', 'target': 'modifier_हरी_219bb4', 'attributes': {}}, {'source': 'num__ca94fb', 'target': 'number_2_4e07e5', 'attributes': {}}, {'source': 'op_2_b6b843', 'target': 'noun_कब_तेल_2_eb7cf7', 'attributes': {}}, {'source': 'noun_कब_तेल_2_eb7cf7', 'target': 'mod_94de99', 'attributes': {}}, {'source': 'noun_कब_तेल_2_eb7cf7', 'target': 'rmeas__cb1cb3', 'attributes': {}}, {'source': 'mod_94de99', 'target': 'modifier_ताजा_07af5a', 'attributes': {}}, {'source': 'modifier_ताजा_07af5a', 'target': 'intf_c7ca67', 'attributes': {}}, {'source': 'intf_c7ca67', 'target': 'intensifier_बहुत_6f0646', 'attributes': {}}, {'source': 'rmeas__cb1cb3', 'target': 'span_dynamic_1_8945c1', 'attributes': {}}, {'source': 'span_dynamic_1_8945c1', 'target': 'start_327385', 'attributes': {}}, {'source': 'span_dynamic_1_8945c1', 'target': 'end_26c7fb', 'attributes': {}}, {'source': 'start_327385', 'target': 'rmeas__68cecc', 'attributes': {}}, {'source': 'end_26c7fb', 'target': 'rmeas__6c10a7', 'attributes': {}}, {'source': 'rmeas__68cecc', 'target': 'measure_start_1_0066d7', 'attributes': {}}, {'source': 'measure_start_1_0066d7', 'target': 'count_start_2df7cf', 'attributes': {}}, {'source': 'measure_start_1_0066d7', 'target': 'unit_start_d9021e', 'attributes': {}}, {'source': 'count_start_2df7cf', 'target': 'quantity_value_start_495507', 'attributes': {}}, {'source': 'unit_start_d9021e', 'target': 'unit_value_start_4e6596', 'attributes': {}}, {'source': 'rmeas__6c10a7', 'target': 'measure_end_2_72b495', 'attributes': {}}, {'source': 'measure_end_2_72b495', 'target': 'count_end_e88d6f', 'attributes': {}}, {'source': 'measure_end_2_72b495', 'target': 'unit_end_b9b188', 'attributes': {}}, {'source': 'count_end_e88d6f', 'target': 'quantity_value_end_d04753', 'attributes': {}}, {'source': 'unit_end_b9b188', 'target': 'unit_value_end_42678b', 'attributes': {}}]
+meas_2
+noun_कब_तेल_2_eb7cf7
+{'id': 'noun_कब_तेल_2_eb7cf7', 'attributes': {'shape': 'ellipse', 'node_type': 'noun', 'label': 'तेल'}}
+10.2.133.167 - - [06/Mar/2025 15:42:30] "POST /graphtousr HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:42:36] "OPTIONS /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:42:36] "POST /add-sentence HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:44:51] "GET /get-sentences/Rsniu9ll56bnOjDRWXuh HTTP/1.1" 200 -
+10.2.133.167 - - [06/Mar/2025 15:44:55] "GET /usrs?recipe_id=Rsniu9ll56bnOjDRWXuh HTTP/1.1" 200 -
+ * Detected change in '/home/user/swetha/backend/graphfunctions.py', reloading
+Measure node: [meas_2] (Dependency: 6:rmeas)
+quantity_value
+Other node: 4 (Dependency: -)
+unit_value
+Other node: चम्मच (Dependency: -)
+span_dynamic
+First level target: start_327385
+Final target found: rmeas__68cecc
+No measurement or specific relation found, defaulting to 'mod'
+-
+Final dependency for rmeas: 1:meas
+sr कहां
+डाल-imperative
+sr op1
+[conj_1]
+qi number_2_4e07e5
+[{'source': 'num__ca94fb', 'target': 'number_2_4e07e5', 'attributes': {}}]
+num__ca94fb
+card
+[{'source': 'noun_कब_मिर्च_1_1c23f6', 'target': 'num__ca94fb', 'attributes': {}}]
+sr op2
+[conj_1]
+None
+start
+rmeas
+qi number_2_4e07e5
+[{'source': 'num__ca94fb', 'target': 'number_2_4e07e5', 'attributes': {}}]
+num__ca94fb
+card
+[{'source': 'noun_कब_मिर्च_1_1c23f6', 'target': 'num__ca94fb', 'attributes': {}}]
+None
+end
+rmeas
+qi quantity_value_end_d04753
+[{'source': 'count_end_e88d6f', 'target': 'quantity_value_end_d04753', 'attributes': {}}]
+count_end_e88d6f
+quantity
+[{'source': 'measure_end_2_72b495', 'target': 'count_end_e88d6f', 'attributes': {}}]
+['-', '-', '9:op1', '-', '3:count', '9:op2', '-', '-', '-', '-', '3:count', '10:unit', '-', '13:count', '13:unit', '-']
+TAM part: imperative
+
+===== Final Filtered IDs =====
+['डाल-o_1', 'पैन', 'मिर्च', 'हरी', '2', 'तेल', 'ताजा', 'बहुत', '[conj_1]', '[meas_1]', '2', 'चम्मच', '[meas_2]', '4', 'चम्मच', '[span_1]']
+cp ['dAla_1-o_1', 'pEna_1', 'mirca_1', 'harI_1', '2', 'wela_1', 'wAjA_1', 'bahuwa_1', '[conj_1]', '[meas_1]', '2', 'cammaca_1', '[meas_2]', '4', 'cammaca_1', '[span_1]']
+['0:main', '1:k2p', '-', '3:mod', '-', '-', '6:mod', '7:intf', '1:k7t', '6:rmeas', '-', '-', '6:rmeas', '-', '-', '1:meas']
+['-', '-', '9:op1', '-', '3:count', '9:op2', '-', '-', '-', '-', '3:count', '10:unit', '-', '13:count', '13:unit', '-']
+<sent_id=6663a>
+#डाल-imperative पैन मिर्च हरी  तेल ताजा बहुत    चम्मच   चम्मच 
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+pEna_1	2	-	-	1:k2p	-	-	-	-
+mirca_1	3	-	-	-	-	-	-	9:op1
+harI_1	4	-	-	3:mod	-	-	-	-
+2	5	-	-	-	-	-	-	3:count
+wela_1	6	-	-	-	-	-	-	9:op2
+wAjA_1	7	-	-	6:mod	-	-	-	-
+bahuwa_1	8	-	-	7:intf	-	-	-	-
+[conj_1]	9	-	-	1:k7t	-	-	-	-
+[meas_1]	10	-	-	6:rmeas	-	-	-	-
+2	11	-	-	-	-	-	-	3:count
+cammaca_1	12	-	-	-	-	-	-	10:unit
+[meas_2]	13	-	-	6:rmeas	-	-	-	-
+4	14	-	-	-	-	-	-	13:count
+cammaca_1	15	-	-	-	-	-	-	13:unit
+[span_1]	16	-	-	1:meas	-	-	-	-
+%affirmative								
+</sent_id>
+<sent_id=6663a>
+#डाल-imperative पैन मिर्च हरी  तेल ताजा बहुत    चम्मच   चम्मच
+dAla_1-o_1	1	-	-	0:main	-	-	-	-
+pEna_1	2	-	-	1:k2p	-	-	-	-
+mirca_1	3	-	-	-	-	-	-	9:op1
+harI_1	4	-	-	3:mod	-	-	-	-
+2	5	-	-	-	-	-	-	3:count
+wela_1	6	-	-	-	-	-	-	9:op2
+wAjA_1	7	-	-	6:mod	-	-	-	-
+bahuwa_1	8	-	-	7:intf	-	-	-	-
+[conj_1]	9	-	-	1:k7t	-	-	-	-
+[meas_1]	10	-	-	6:rmeas	-	-	-	-
+2	11	-	-	-	-	-	-	3:count
+cammaca_1	12	-	-	-	-	-	-	10:unit
+[meas_2]	13	-	-	6:rmeas	-	-	-	-
+4	14	-	-	-	-	-	-	13:count
+cammaca_1	15	-	-	-	-	-	-	13:unit
+[span_1]	16	-	-	1:meas	-	-	-	-
+%affirmative
+</sent_id>
+
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 161-639-538
+ * Detected change in '/home/user/swetha/backend/main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 161-639-538

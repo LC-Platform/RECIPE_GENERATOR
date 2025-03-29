@@ -1,0 +1,11 @@
+Flask
+flask-cors
+pymongo
+networkx
+matplotlib
+python-dotenv
+networkx
+graphviz
+pandas
+wxconv
+langdetect

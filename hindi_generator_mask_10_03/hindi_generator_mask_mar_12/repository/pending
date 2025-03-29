@@ -1,0 +1,11 @@
+jan 16th
+
+1.bi_1 should not be  - done
+2.vabichar case need to handle   -  
+3.wyax need to take gnp of coref data  -  done (ask only morpho_sem data or any other data) 
+4.sat with swetha for hybrid model - done
+
+17th
+1.noun refering its own verb case
+2.vabichar case need to handle   -
+3.bring segment id along with coref 

@@ -1,0 +1,12 @@
+concept_data	index_data	semantic_data	gnp_data	dependency_data	discourse_data	skpview_data	scope_data	construction_data
+banA__1-o_1_	1	-	-	0:main	-	-	-	-
+wela_1	2	-	-	-	-	-	-	10:op1
+[meas_1]	3	-	-	2:rmeas	-	-	-	-
+cammaca_1	4	-	-	-	-	-	-	3:unit
+2	5	-	-	-	-	-	-	3:count
+XaniyA_1	6	-	-	-	-	-	-	10:op2
+[meas_2]	7	-	-	6:rmeas	-	-	-	-
+grAma_1	8	-	-	-	-	-	-	7:unit
+10	9	-	-	-	-	-	-	7:count
+[disj_1]	10	-	-	1:k2	-	-	-	-
+%imperative								

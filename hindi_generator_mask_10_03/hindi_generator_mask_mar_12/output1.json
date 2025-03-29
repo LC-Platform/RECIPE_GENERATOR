@@ -1,0 +1,338 @@
+[
+    {
+        "usr_id": "gold_data_142b",
+        "discourse_head": "gold_data_142b.3",
+        "discourse_head_sent_id": "gold_data_142b",
+        "discourse_head_index": "3",
+        "discourse_rel": "samuccaya",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_144a",
+        "discourse_head": "gold_data_144b.3",
+        "discourse_head_sent_id": "gold_data_144b",
+        "discourse_head_index": "3",
+        "discourse_rel": "AvaSyakawApariNAma",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_146b",
+        "discourse_head": "gold_data_146b.3",
+        "discourse_head_sent_id": "gold_data_146b",
+        "discourse_head_index": "3",
+        "discourse_rel": "kAryakAraNa",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_148b",
+        "discourse_head": "gold_data_148b.3",
+        "discourse_head_sent_id": "gold_data_148b",
+        "discourse_head_index": "3",
+        "discourse_rel": "pariNAma",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_150b",
+        "discourse_head": "gold_data_150b.3",
+        "discourse_head_sent_id": "gold_data_150b",
+        "discourse_head_index": "3",
+        "discourse_rel": "samuccaya",
+        "speaker_view": "alAvA_1"
+    },
+    {
+        "usr_id": "gold_data_152b",
+        "discourse_head": "gold_data_152a.3",
+        "discourse_head_sent_id": "gold_data_152a",
+        "discourse_head_index": "3",
+        "discourse_rel": "samuccaya",
+        "speaker_view": "samAveSI"
+    },
+    {
+        "usr_id": "gold_data_153b",
+        "discourse_head": "gold_data_153a.3",
+        "discourse_head_sent_id": "gold_data_153a",
+        "discourse_head_index": "3",
+        "discourse_rel": "samuccaya",
+        "speaker_view": "BI_1"
+    },
+    {
+        "usr_id": "gold_data_154b",
+        "discourse_head": "gold_data_154a.3",
+        "discourse_head_sent_id": "gold_data_154a",
+        "discourse_head_index": "3",
+        "discourse_rel": "uwwarakAla",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_155b",
+        "discourse_head": "gold_data_155a.3",
+        "discourse_head_sent_id": "gold_data_155a",
+        "discourse_head_index": "3",
+        "discourse_rel": "samuccaya",
+        "speaker_view": "awirikwa_1"
+    },
+    {
+        "usr_id": "gold_data_156b",
+        "discourse_head": "gold_data_156a.4",
+        "discourse_head_sent_id": "gold_data_156a",
+        "discourse_head_index": "4",
+        "discourse_rel": "arWAwa",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_157b",
+        "discourse_head": "gold_data_157a.6",
+        "discourse_head_sent_id": "gold_data_157a",
+        "discourse_head_index": "6",
+        "discourse_rel": "kAryaxyowaka",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_158b",
+        "discourse_head": "gold_data_158a.6",
+        "discourse_head_sent_id": "gold_data_158a",
+        "discourse_head_index": "6",
+        "discourse_rel": "uxaharaNasvarUpa",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_159a",
+        "discourse_head": "gold_data_159b.3",
+        "discourse_head_sent_id": "gold_data_159b",
+        "discourse_head_index": "3",
+        "discourse_rel": "vyaBicAra",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_160a",
+        "discourse_head": "gold_data_160b.2",
+        "discourse_head_sent_id": "gold_data_160b",
+        "discourse_head_index": "2",
+        "discourse_rel": "AvaSyakawApariNAma",
+        "speaker_view": "nahIM"
+    },
+    {
+        "usr_id": "gold_data_142b",
+        "discourse_head": "gold_data_142b.3",
+        "discourse_head_sent_id": "gold_data_142b",
+        "discourse_head_index": "3",
+        "discourse_rel": "samuccaya",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_144a",
+        "discourse_head": "gold_data_144b.3",
+        "discourse_head_sent_id": "gold_data_144b",
+        "discourse_head_index": "3",
+        "discourse_rel": "AvaSyakawApariNAma",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_146b",
+        "discourse_head": "gold_data_146b.3",
+        "discourse_head_sent_id": "gold_data_146b",
+        "discourse_head_index": "3",
+        "discourse_rel": "kAryakAraNa",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_148b",
+        "discourse_head": "gold_data_148b.3",
+        "discourse_head_sent_id": "gold_data_148b",
+        "discourse_head_index": "3",
+        "discourse_rel": "pariNAma",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_150b",
+        "discourse_head": "gold_data_150b.3",
+        "discourse_head_sent_id": "gold_data_150b",
+        "discourse_head_index": "3",
+        "discourse_rel": "samuccaya",
+        "speaker_view": "alAvA_1"
+    },
+    {
+        "usr_id": "gold_data_152b",
+        "discourse_head": "gold_data_152a.3",
+        "discourse_head_sent_id": "gold_data_152a",
+        "discourse_head_index": "3",
+        "discourse_rel": "samuccaya",
+        "speaker_view": "samAveSI"
+    },
+    {
+        "usr_id": "gold_data_153b",
+        "discourse_head": "gold_data_153a.3",
+        "discourse_head_sent_id": "gold_data_153a",
+        "discourse_head_index": "3",
+        "discourse_rel": "samuccaya",
+        "speaker_view": "BI_1"
+    },
+    {
+        "usr_id": "gold_data_154b",
+        "discourse_head": "gold_data_154a.3",
+        "discourse_head_sent_id": "gold_data_154a",
+        "discourse_head_index": "3",
+        "discourse_rel": "uwwarakAla",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_155b",
+        "discourse_head": "gold_data_155a.3",
+        "discourse_head_sent_id": "gold_data_155a",
+        "discourse_head_index": "3",
+        "discourse_rel": "samuccaya",
+        "speaker_view": "awirikwa_1"
+    },
+    {
+        "usr_id": "gold_data_156b",
+        "discourse_head": "gold_data_156a.4",
+        "discourse_head_sent_id": "gold_data_156a",
+        "discourse_head_index": "4",
+        "discourse_rel": "arWAwa",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_157b",
+        "discourse_head": "gold_data_157a.6",
+        "discourse_head_sent_id": "gold_data_157a",
+        "discourse_head_index": "6",
+        "discourse_rel": "kAryaxyowaka",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_158b",
+        "discourse_head": "gold_data_158a.6",
+        "discourse_head_sent_id": "gold_data_158a",
+        "discourse_head_index": "6",
+        "discourse_rel": "uxaharaNasvarUpa",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_159a",
+        "discourse_head": "gold_data_159b.3",
+        "discourse_head_sent_id": "gold_data_159b",
+        "discourse_head_index": "3",
+        "discourse_rel": "vyaBicAra",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_160a",
+        "discourse_head": "gold_data_160b.2",
+        "discourse_head_sent_id": "gold_data_160b",
+        "discourse_head_index": "2",
+        "discourse_rel": "AvaSyakawApariNAma",
+        "speaker_view": "nahIM"
+    },
+    {
+        "usr_id": "gold_data_142b",
+        "discourse_head": "gold_data_142b.3",
+        "discourse_head_sent_id": "gold_data_142b",
+        "discourse_head_index": "3",
+        "discourse_rel": "samuccaya",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_144a",
+        "discourse_head": "gold_data_144b.3",
+        "discourse_head_sent_id": "gold_data_144b",
+        "discourse_head_index": "3",
+        "discourse_rel": "AvaSyakawApariNAma",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_146b",
+        "discourse_head": "gold_data_146b.3",
+        "discourse_head_sent_id": "gold_data_146b",
+        "discourse_head_index": "3",
+        "discourse_rel": "kAryakAraNa",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_148b",
+        "discourse_head": "gold_data_148b.3",
+        "discourse_head_sent_id": "gold_data_148b",
+        "discourse_head_index": "3",
+        "discourse_rel": "pariNAma",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_150b",
+        "discourse_head": "gold_data_150b.3",
+        "discourse_head_sent_id": "gold_data_150b",
+        "discourse_head_index": "3",
+        "discourse_rel": "samuccaya",
+        "speaker_view": "alAvA_1"
+    },
+    {
+        "usr_id": "gold_data_152b",
+        "discourse_head": "gold_data_152a.3",
+        "discourse_head_sent_id": "gold_data_152a",
+        "discourse_head_index": "3",
+        "discourse_rel": "samuccaya",
+        "speaker_view": "samAveSI"
+    },
+    {
+        "usr_id": "gold_data_153b",
+        "discourse_head": "gold_data_153a.3",
+        "discourse_head_sent_id": "gold_data_153a",
+        "discourse_head_index": "3",
+        "discourse_rel": "samuccaya",
+        "speaker_view": "BI_1"
+    },
+    {
+        "usr_id": "gold_data_154b",
+        "discourse_head": "gold_data_154a.3",
+        "discourse_head_sent_id": "gold_data_154a",
+        "discourse_head_index": "3",
+        "discourse_rel": "uwwarakAla",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_155b",
+        "discourse_head": "gold_data_155a.3",
+        "discourse_head_sent_id": "gold_data_155a",
+        "discourse_head_index": "3",
+        "discourse_rel": "samuccaya",
+        "speaker_view": "awirikwa_1"
+    },
+    {
+        "usr_id": "gold_data_156b",
+        "discourse_head": "gold_data_156a.4",
+        "discourse_head_sent_id": "gold_data_156a",
+        "discourse_head_index": "4",
+        "discourse_rel": "arWAwa",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_157b",
+        "discourse_head": "gold_data_157a.6",
+        "discourse_head_sent_id": "gold_data_157a",
+        "discourse_head_index": "6",
+        "discourse_rel": "kAryaxyowaka",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_158b",
+        "discourse_head": "gold_data_158a.6",
+        "discourse_head_sent_id": "gold_data_158a",
+        "discourse_head_index": "6",
+        "discourse_rel": "uxaharaNasvarUpa",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_159a",
+        "discourse_head": "gold_data_159b.3",
+        "discourse_head_sent_id": "gold_data_159b",
+        "discourse_head_index": "3",
+        "discourse_rel": "vyaBicAra",
+        "speaker_view": null
+    },
+    {
+        "usr_id": "gold_data_160a",
+        "discourse_head": "gold_data_160b.2",
+        "discourse_head_sent_id": "gold_data_160b",
+        "discourse_head_index": "2",
+        "discourse_rel": "AvaSyakawApariNAma",
+        "speaker_view": "nahIM"
+    }
+]

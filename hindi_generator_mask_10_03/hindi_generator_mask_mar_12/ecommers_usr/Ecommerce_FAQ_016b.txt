@@ -1,0 +1,13 @@
+<segment_id=Ecommerce_FAQ_016b>
+#तो हम पता अपडेट करने की पूरी कोशिश करेंगे।
+$speaker	1	anim	pl	8:k1	-	-	-	-
+pawA_1	2	-	-	4:k2	-	-	-	-
+^apadeta_1	3	-	-	4:pof	-	-	-	10:kriyAmUla
+kara_1	4	-	pl	7:k2	-	-	-	10:verbalizer
+pUrA_1	6	-	-	7:k2	-	-	-	-
+koSiSa_1	7	-	-	8:pof	-	-	-	11:kriyAmUla
+kara_1-gA_1	8	-	-	0:main	-	-	-	11:verbalizer
+[cp_1]	10	-	-	-	-	-	-	-
+[cp_2]	11	-	-	-	-	-	-	-
+ 
+</segment_id>

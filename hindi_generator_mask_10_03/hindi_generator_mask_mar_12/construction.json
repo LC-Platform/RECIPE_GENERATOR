@@ -1,0 +1,30 @@
+{
+  "constructions": [
+    {
+      "text": "डाल-imperative मिर्च   गुच्छा",
+      "usr_id": "8b01a",
+      "constructions": [
+        {
+          "original_concept": {
+            "index": 3,
+            "concept": "[meas_1]",
+            "dep_rel": "rmeas",
+            "dep_head": 2
+          },
+          "related_tokens": [
+            {
+              "constr_value": "count",
+              "concept": "2",
+              "index": 4
+            },
+            {
+              "constr_value": "unit",
+              "concept": "gucCA_1",
+              "index": 5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
